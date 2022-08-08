@@ -1,0 +1,44 @@
+@charset "UTF-8";
+body {
+font-family:Arial, Arimo, "Liberation Sans", "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+margin-top:41px;
+margin-bottom:50px;
+}
+.column {   width:200px;
+            padding-bottom:40px;
+            padding-left:4px;
+            margin:0;
+        }
+.column > ul, .column > ol { margin-left:-16px;
+    margin-top:0;
+}
+
+.column > ul > li { margin-left:-16px;
+                    list-style-type:none;
+                    border-top:solid thin grey;}
+
+.column > ul > li > p {   display:inline-block;
+                        vertical-align:top;}
+
+main > div {
+    margin:auto;
+    width:800px;
+    display:block;
+    overflow:auto;
+}
+.flex_container {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.smol {
+    border:solid 2.5px black;
+    border-radius:2.5px;
+}
+
+h2, h3 {text-align:center;}
+h4 {
+    margin-bottom:0;
+}
+
+#magistrale {padding-top:50px;}
