@@ -1,164 +1,37 @@
-/*color scheme
-#173f5f #20639b #3caea3 #f6d55c #ed553b */
+@charset "UTF-8";
 body {
-  background-color: #20639b;
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
+font-family:Arial, Arimo, "Liberation Sans", "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+margin-top:41px;
+margin-bottom:50px;
 }
-#topmenu {
-  background-color: #173f5f;
-  height: 100px;
-  display: block;
-  margin-top: 0px;
-}
-img#toplogo {
-  float: left;
-  height: 80px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 10px;
-}
-#rightmost {
-  margin-right: 45px;
-}
-a.topmenu,
-a:link {
-  float: right;
-  width: auto;
-  height: auto;
-  margin-top: 15px;
-  padding-top: 25.5px;
-  margin-bottom: 15px;
-  padding-bottom: 25.5px;
-  padding-left: 15px;
-  margin-left: 15px;
-  padding-right: 15px;
-  margin-right: 15px;
-  text-decoration: none;
-  color: #3caea3;
-  font-size: 16px;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  text-decoration: none;
-}
-a.topmenu,
-a:visited {
-  color: #3caea3;
-  text-decoration: none;
-}
-a.topmenu,
-a:hover {
-  color: #f6d55c;
-}
+.left_panel {   width:200px;
+                border-top:solid 2px grey;
+                border-bottom:solid 5px grey;
+                margin-top:10px;
+                padding-bottom:40px;
+                padding-left:4px;
+                /*border-radius:16px;*/}
 
-div#mainbody {
-  background-color: #ed553b;
-  height: auto;
-  margin-top: 0px;
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-bottom: 100px;
-  display: block;
-  padding-bottom: 100px;
-}
+.left_panel > ul, .left_panel > ol { margin-left:-16px;}
 
-div.body {
-  marging-top: 15px;
-  padding-top: 15px;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-h1 {
-  color: #f6d55c;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-}
-hr {
-  height: 3px;
-  width: 50%;
-  margin-top: -20px;
-  background-color: #f6d55c;
-  margin-left: -5px;
-  border: 0em;
-}
-p.body {
-  color: #173f5f;
-  margin-left: 10px;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-}
-h4 {
-  color: #173f5f;
-  margin-left: 7px;
+.left_panel > ul > li { margin-left:-16px;
+                        list-style-type:none;
+                        border-top:solid thin grey;}
 
-  margin-bottom: -3px;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-}
-li {
-  color: #173f5f;
-  margin-left: 10px;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-}
-ul {
-  margin-left: -15px;
-}
+.left_panel > ul > li > p { display:inline-block;
+                            margin-top:0px;
+                            margin-bottom:0px;
+                            vertical-align:top;}
+.left_panel > ul > li > a { display:inline-block;
+                            vertical-align:top;}
 
-.button {
-  background-color: #3caea3;
-  float: right;
-  padding: 10px;
-  border-radius: 5px;
-  margin-right: 50px;
+/* Full screen media query */
+@media all and (min-width:801px) {
+ main { margin-left:215px; }
+ footer { margin-left:215px;}
+ .left_panel {
+position:absolute;
+top:41px;
+left:2px;
 }
-.grid-container {
-  width: 294px;
-}
-
-.grid {
-  border-style: solid;
-  border-color: black;
-  border-radius: 0px;
-  border-width: 1px;
-  background-color: white;
-  height: 40px;
-  width: 40px;
-  margin-top: -4px;
-  margin-left: -4px;
-  margin-bottom: -4px;
-  margin-right: -4px;
-  display: inline-grid;
-}
-p.button1 {
-  color: #173f5f;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  margin-left: 5px;
-  margin-right: 5px;
-  margin-top: 2px;
-  margin-bottom: 2px;
-}
-
-div.card {
-  background-color: white;
-  flex: 1;
-  flex-basis: 150px;
-  border-radius: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
-img {
-  display: block;
-  max-width: 100px;
-  margin-top: 20px;
-  margin: 20px auto 20px;
-}
-
-div.bodycard {
-  display: flex;
-  justify-content: space-between;
-  marging-top: 15px;
-  padding-top: 15px;
-  padding-left: 20.5px;
-  padding-right: 20.5px;
-  height: 300px;
-  flex-wrap: wrap;
 }
