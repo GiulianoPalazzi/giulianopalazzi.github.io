@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.left_panel {   width:200px;
+                border:solid 2px grey;
+                border-bottom:solid 5px grey;
+                margin-top:10px;
+                padding-bottom:40px;
+                padding-left:4px;
+                border-radius:16px;}
+
+.left_panel > ul, .left_panel > ol { margin-left:-16px;}
+
+.left_panel > ul > li { margin-left:-16px;
+                        list-style-type:none;
+                        border-top:solid thin grey;}
+
+@media all and (min-width:801px) {
+ main { margin-left:215px; }
+ footer { margin-left:215px;}
+ .left_panel {
+position:absolute;
+top:41px;
+left:2px;
+}
+}
