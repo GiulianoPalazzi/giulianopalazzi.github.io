@@ -1,5 +1,9 @@
 @charset "UTF-8";
-
+body {
+font-family:Arial, Arimo, "Liberation Sans", "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+margin-top:41px;
+margin-bottom:50px;
+}
 .left_panel {   width:200px;
                 border-top:solid 2px grey;
                 border-bottom:solid 5px grey;
