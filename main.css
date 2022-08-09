@@ -1,37 +1,57 @@
 @charset "UTF-8";
 body {
-font-family:Arial, Arimo, "Liberation Sans", "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
-margin-top:41px;
-margin-bottom:50px;
+  font-family: Arial, Arimo, "Liberation Sans", "Segoe UI Emoji",
+    "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+  margin-top: 41px;
+  margin-bottom: 50px;
 }
-.left_panel {   width:200px;
-                border-top:solid 2px grey;
-                border-bottom:solid 5px grey;
-                margin-top:10px;
-                padding-bottom:40px;
-                padding-left:4px;
-                /*border-radius:16px;*/}
+.left_panel {
+  width: 200px;
+  border-top: solid 2px grey;
+  border-bottom: solid 5px grey;
+  margin-top: 10px;
+  padding-bottom: 40px;
+  padding-left: 4px;
+  /*border-radius:16px;*/
+}
 
-.left_panel > ul, .left_panel > ol { margin-left:-16px;}
+.left_panel > ul,
+.left_panel > ol {
+  margin-left: -16px;
+}
 
-.left_panel > ul > li { margin-left:-16px;
-                        list-style-type:none;
-                        border-top:solid thin grey;}
+.left_panel > ul > li {
+  margin-left: -16px;
+  list-style-type: none;
+  border-top: solid thin grey;
+}
 
-.left_panel > ul > li > p { display:inline-block;
-                            margin-top:0px;
-                            margin-bottom:0px;
-                            vertical-align:top;}
-.left_panel > ul > li > a { display:inline-block;
-                            vertical-align:top;}
+.left_panel > ul > li > p {
+  display: inline-block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  vertical-align: top;
+}
+.left_panel > ul > li > a {
+  display: inline-block;
+  vertical-align: top;
+}
 
 /* Full screen media query */
-@media all and (min-width:801px) {
- main { margin-left:215px; }
- footer { margin-left:215px;}
- .left_panel {
-position:absolute;
-top:41px;
-left:2px;
+@media all and (min-width: 801px) {
+  main {
+    margin-left: 215px;
+  }
+  footer {
+    margin-left: 215px;
+  }
+  .left_panel {
+    position: absolute;
+    top: 41px;
+    left: 2px;
+  }
 }
+
+h1 > span {
+  float: right;
 }
