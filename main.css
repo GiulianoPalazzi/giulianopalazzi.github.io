@@ -41,6 +41,25 @@ body {
 @media all and (min-width: 801px) {
   main {
     margin-left: 215px;
+    nav.navBack > a::before {
+      content: "Back to ";
+    }
+    nav.navBack > a {
+      color: white;
+    }
+    nav.navBack > a {
+      display: inline-block;
+      position: fixed;
+      top: 2px;
+      left: 2px;
+      z-index: 2;
+      margin: 0;
+      padding: 4px;
+      border: solid 2px darkred;
+      border-radius: 16px;
+      background-color: darkred;
+      color: white;
+    }
   }
   footer {
     margin-left: 215px;
@@ -54,4 +73,24 @@ body {
 
 h1 > span {
   float: right;
+}
+
+nav.navBack > a::before {
+  content: "Back to ";
+}
+nav.navBack > a {
+  color: white;
+}
+nav.navBack > a {
+  display: inline-block;
+  position: fixed;
+  top: 2px;
+  left: 2px;
+  z-index: 2;
+  margin: 0;
+  padding: 4px;
+  border: solid 2px darkred;
+  border-radius: 16px;
+  background-color: darkred;
+  color: white;
 }
