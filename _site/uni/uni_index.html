@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>University</title>
+    <link rel="stylesheet" href="uni.css" />
+    <link rel="stylesheet" href="../darkmode.css" />
+  </head>
+
+  <body>
+    <!--Eventually add extra miscileanous features: credits earned throughout the
+    years and would be nice to add tick to all passed exams and a avg score
+    calculator added to the page add a key to explain what the parens and ticks
+    will mean. Also, as a note on the side, add the minimum number of credits
+    needed to pass the year and the maximum credits allowed per year. Paste in
+    ✅ when the subject is passed-->
+    <nav class="navBack">
+      <a href="../index.html">Main Page</a>
+    </nav>
+    <main>
+      <button id="dark-mode-toggle" class="dark-mode-toggle">
+        <svg width="100%" viewBox="0 0 496 496">
+          <path
+            fill="currentColor"
+            d="M8,256C8,393,119,504,256,504S504,393,504,256,393,8,256,8,8,119,8,256ZM256,440V72a184,184,0,0,1,0,368Z"
+            transform="translate(-8 -8)"
+          />
+        </svg>
+      </button>
+      <div>
+        <h1>My University notes</h1>
+        <h2>Triennale</h2>
+        <div class="flex_container">
+          <div class="column">
+            <h3>First Year</h3>
+            <h4>First semester</h4>
+            <ul>
+              <li>
+                <span>(10)</span
+                ><a href="mth1/mth1_index.html">Mathematical Analysis I</a>
+              </li>
+              <li>
+                <span>(8)</span><a href="chem/chem_index.html">Chemistry</a>
+              </li>
+              <li><span>(8)</span>Computer Science</li>
+            </ul>
+            <h4>Second semester</h4>
+            <ul>
+              <li>
+                <span>(10)</span
+                ><a href="lag/lag_index.html">Linear Algebra & Geometry</a>
+              </li>
+              <li>
+                <span>(10)</span><a href="phy1/phy1_index.html">Physics I</a>
+              </li>
+              <li>
+                <span>(6)</span
+                ><a href="prgtechs/prgtechs_index.html"
+                  >Programming Techniques</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="smol"></div>
+          <div class="column">
+            <h3>Second Year</h3>
+            <h4>First semester</h4>
+            <ul>
+              <li><span>(8)</span>Algorithms & Data Structures</li>
+              <li>
+                <span>(12)</span>Electromagnetism (Physics II) & Circuit Theory
+              </li>
+              <li><span>(10)</span>Mathematical Analysis II</li>
+            </ul>
+            <h4>Second semester</h4>
+            <ul>
+              <li><span>(8)</span>Computer Architecture</li>
+              <li><span>(8)</span>Introduction to Databases</li>
+              <li>
+                <span>(10)</span>Mathematical Methods for Computer Science
+              </li>
+              <li>
+                <span>(6)</span>Elective course from "Big Global Challenge"
+              </li>
+            </ul>
+          </div>
+          <div class="smol"></div>
+          <div class="column">
+            <h3>Third Year</h3>
+            <h4>First semester</h4>
+            <ul>
+              <li><span>(8)</span>Computer Networks</li>
+              <li>
+                <span>(8)</span>Electronic Systems, Technologies & Measurements
+              </li>
+              <li><span>(6)</span>Operating Systems</li>
+              <li><span>(8)</span>Signal Analysis & Processing</li>
+            </ul>
+            <h4>Second semester</h4>
+            <ul>
+              <li><span>(8)</span>Applied Electronics</li>
+              <li><span>(10)</span>Automatic Control</li>
+              <li><span>(8)</span>Object Oriented Programming</li>
+              <li><span>(6)</span>Another elective</li>
+            </ul>
+            <h4>Throughout both semesters</h4>
+            <ul>
+              <li><span>(1)</span>Final Project</li>
+            </ul>
+          </div>
+        </div>
+        <p class="rightp">
+          To view bachelors program for Computer Engineering in more detail clic
+          <a
+            href="https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=10"
+            target="_blank"
+            >here</a
+          >.
+        </p>
+      </div>
+      <h2 id="magistrale">Magistrale</h2>
+      <h3>Coming in autumn 2024</h3>
+    </main>
+    <script src="../toggle_DarkMode.js"></script>
+  </body>
+</html>
