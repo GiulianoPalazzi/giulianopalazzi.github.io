@@ -6,3 +6,5 @@ _site/
 .bundle/
 vendor/
 siteclone/
+Gemfile
+Gemfile.lock
