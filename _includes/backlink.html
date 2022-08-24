@@ -1,0 +1,9 @@
+{% if page.backlink %}
+    <nav class="navBack">
+	    <a href="{{ page.backlink }}">{{ page.backlinktitle }}</a>
+    </nav>
+{% elsif layout.backlink %}
+    <nav class="navBack">
+	    <a href="{{ layout.backlink }}">{{ layout.backlinktitle }}</a>
+    </nav>
+{% endif %}

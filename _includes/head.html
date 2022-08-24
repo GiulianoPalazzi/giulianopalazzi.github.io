@@ -1,0 +1,14 @@
+<head>
+    <meta charset="utf-8" />
+    {% if page.head == nil %}
+    <link rel="stylesheet" href="/css/main.css" />
+    {% else %}
+    {{ page.head }}
+    {% endif %}
+    <link rel="stylesheet" href="/css/darkmode.css" />
+      <title>
+      {% if page.title %}
+      {{ page.title }} |
+      {% endif %} Giuliano Palazzi
+      </title>
+</head>

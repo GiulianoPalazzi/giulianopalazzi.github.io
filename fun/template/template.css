@@ -1,0 +1,20 @@
+
+nav.navBack > a::before {
+  content: "Back to ";
+}
+nav.navBack > a {
+  color: white;
+}
+nav.navBack > a {
+  display: inline-block;
+  position: fixed;
+  top: 2px;
+  left: 2px;
+  z-index: 2;
+  margin: 0;
+  padding: 4px;
+  border: solid 2px darkred;
+  border-radius: 16px;
+  background-color: darkred;
+  color: white;
+}

@@ -62,12 +62,6 @@ h4 {
   padding-top: 50px;
 }
 
-nav.navBack > a::before {
-  content: "Back to ";
-}
-nav.navBack > a {
-  color: white;
-}
 nav.navBack > a {
   display: inline-block;
   position: fixed;
@@ -80,4 +74,9 @@ nav.navBack > a {
   border-radius: 16px;
   background-color: darkred;
   color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+nav.navBack > a::before {
+  content: "Back to ";
 }
