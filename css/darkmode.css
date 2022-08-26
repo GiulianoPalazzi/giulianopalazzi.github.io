@@ -10,6 +10,10 @@ h1 {
 :root {
   --clr-light: #fdffc4;
   --clr-dark: #00332a;
+/*
+  --clr-light: #556B2F;
+  --clr-dark: #F7F2C6;
+*/
   --clr-primary: #dbffa2;
   --clr-secondary: #c3fcf2;
   --clr-accent: #ff7750;
@@ -20,9 +24,14 @@ h1 {
   --ff-title: "Playfair Display", serif;
   --ff-body: "Assistant", sans-serif;
 }
+
 .darkmode {
-  --clr-light: #fdffc4;
-  --clr-dark: #00332a;
+  --clr-light: #96ac6c;
+  --clr-dark: #282600;
+/*
+  --clr-light: #F7F2C6;
+  --clr-dark: #556B2F;
+*/
   --clr-primary: #202302;
   --clr-secondary: #00100d;
   --clr-accent: #ff7750;
@@ -30,6 +39,20 @@ h1 {
   --foreground: var(--clr-light);
   --background: var(--clr-dark);
 }
+
+/*
+.darkmode {
+  --clr-light: #F7F2C6;
+  --clr-dark: #556B2F;
+  --clr-primary: #202302;
+  --clr-secondary: #00100d;
+  --clr-accent: #ff7750;
+
+  --foreground: var(--clr-light);
+  --background: var(--clr-dark);
+}
+*/
+
 .dark-mode-toggle {
   position: absolute;
   top: 1em;
@@ -43,3 +66,55 @@ h1 {
   width: 30px;
   height: 30px;
 }
+
+/*
+.newbutton {
+  position: absolute;
+  top: 0.75em;
+  right: 0.75em;
+  z-index: -1;
+    --tw-bg-opacity: 1;
+    --tw-border-opacity: 0.1;
+    --tw-text-opacity: 1;
+    border-width: 0;
+    border-style: solid;
+    border-color: #e5e7eb;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(59, 130, 246, 0.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+    --tw-shadow: 0 0 #0000;
+    margin: 0;
+    text-transform: none;
+    background-color: transparent;
+    cursor: pointer;
+    transition-property: background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 100ms;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0.5rem;
+    font-weight: 600;
+    border-radius: 9999px;
+}
+.newbuttonsvg {
+    --tw-bg-opacity: 1;
+    --tw-border-opacity: 0.1;
+    --tw-text-opacity: 1;
+    cursor: pointer;
+    border-width: 0;
+    border-color: #e5e7eb;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(59, 130, 246, 0.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+    --tw-shadow: 0 0 #0000;
+    vertical-align: middle;
+    width: 1.5rem;
+    height: 1.5rem;
+    fill: currentColor;
+}
+*/
