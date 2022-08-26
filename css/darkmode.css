@@ -8,9 +8,11 @@ h1 {
   font-family: var(--ff-title);
 }
 :root {
+  --clr-light: #F7F2C6;
+  --clr-dark: #556B2F;
+/*
   --clr-light: #fdffc4;
   --clr-dark: #00332a;
-/*
   --clr-light: #556B2F;
   --clr-dark: #F7F2C6;
 */
@@ -25,6 +27,19 @@ h1 {
   --ff-body: "Assistant", sans-serif;
 }
 
+/* Other Colour schemes
+  --clr-light: #1f9967; Japanese Evergreen tree theme
+  --clr-dark: #ffffff;
+
+  --clr-light: #F7F2C6; My default reader light theme
+  --clr-dark: #556B2F;
+
+  --clr-light: #556B2F; Negative of default reader light theme
+  --clr-dark: #F7F2C6;
+
+  --clr-light: #96ac6c; Dark theme made with phone and light theme
+  --clr-dark: #282600;
+*/
 .darkmode {
   --clr-light: #96ac6c;
   --clr-dark: #282600;
