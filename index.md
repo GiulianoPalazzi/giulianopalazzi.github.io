@@ -11,3 +11,5 @@ So from now on this will become my sort of notes and blog website
 encompassing all of my interests that I can write about and also serving
 as a vault where I can store any good sources of knowledge or good ideas
 I have <i>every now and then</i>
+
+Link to a copy of eric chapelalelala's notes [here](/notes/math1341) to see if KaTeK and the javascript for minimising work
