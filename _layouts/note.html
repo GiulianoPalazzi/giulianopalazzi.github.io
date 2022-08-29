@@ -1,14 +1,18 @@
 ---
 layout: basic
 ---
-<div class="contents nonprintable"></div>
+<div class="toc">
+        <button class="ui button" onClick="setDetails(false);">Close all sections</button>
+        <button class="ui button" onClick="setDetails(true);">Open all sections</button>
+<div class="contents nonprintable">
+</div>
+</div>
 
 
 <div class="segment ui text container document">
   <h1 id="">{{ page.title }}</h1>
   <hr>
-        <button class="ui button" onClick="setDetails(false);">Close all sections</button>
-        <button class="ui button" onClick="setDetails(true);">Open all sections</button>
+  <!--<nav>{% include toc.html html=content item_class="%level%" h_max=3 %}</nav>-->
     <div class="cnote">
         {{ content }}
     </div>
@@ -20,10 +24,15 @@ layout: basic
     betweenH1 = /<h1.*?(?=<h1|$)/gs;
     anyHeaderID = /(?<=<h[1-3][^>]*id=").*?(?=")/gs;
     anyHeaderText = /(?<=<h[123][^>]*>).*?(?=<\/h[123])/gs;
+    betweenH2 = /<h2.*?(?=<h[12]|$)/gs;
+    anyHeaderID2 = /(?<=<h[23][^>]*id=").*?(?=")/gs;
+    anyHeaderText2 = /(?<=<h[23][^>]*>).*?(?=<\/h[23])/gs;
     var newHTML, curIDs, curHeaders;
 
     allCollapseableSections = document.getElementsByClassName("cnote");
 
+    // This loops for each collapseable notes section one time
+    // curBlock = currentBlock (of html inside h1 tags)
     for (var curBlock = 0; curBlock < allCollapseableSections.length; curBlock++) {
         // Onetime:
         //Create sections which are defined as area between two h1's
@@ -35,17 +44,48 @@ layout: basic
             //contents
             curHeaders = sectionsBody[i].match(anyHeaderText);
             curIDs = sectionsBody[i].match(anyHeaderID);
-            contents += "<div data-id='" + curIDs[0] + "' hidden>";
+	    //console.log(tocContents[i]);
 
-            for (var j = 0; j < curHeaders.length ; j++){
-                contents += "<a href='#" + curIDs[j] + "'>" + curHeaders[j] + "</a><br />";
+            contents += "<div data-id='" + curIDs[0] + "' hidden>";
+            contents += "<a href='#" + curIDs[0] + "'>" + curHeaders[0] + "</a>";
+	
+            var sectionsBody2 = sectionsBody[i].match(betweenH2);
+            // if there exist a/some h2(s) continue
+            if (sectionsBody2 != null){
+            contents += "<ul>";
+            for (var j = 0; j < sectionsBody2.length ; j++) {
+                curHeaders2 = sectionsBody2[j].match(anyHeaderText2);
+                curIDs2 = sectionsBody2[j].match(anyHeaderID2);
+		contents += "<li><a href='#" + curIDs2[0] + "'>" + curHeaders2[0] + "</a></li>";
+            	contents += "<ul>";
+                for (var k = 1; k < curHeaders2.length ; k++){
+		    contents += "<li><a href='#" + curIDs2[k] + "'>" + curHeaders2[k] + "</a></li>";
+		
+            	}
+
+            	contents += "</ul>";
+		}
+
+	//implementation for one sublevel
+	
+	/*
+            contents += "<ul>";
+            for (var j = 1; j < curHeaders.length ; j++) {
+		contents += "<li><a href='#" + curIDs[j] + "'>" + curHeaders[j] + "</a></li>";
             }
-            contents += "</div>";
+            	contents += "</ul>";
+//	*/
+
+            }
+//	*/
+
+    	    contents += "</div>";
 
             // Body
             allCollapseableSections[curBlock].innerHTML += "<details id='" + curIDs[0] + "'><summary>" + sectionsBody[i].match(anyHeaderText)[0] + "</summary>" + sectionsBody[i] + "</details>";
         }
     }
+
     contents += "</nav";
     document.getElementsByClassName("contents")[0].innerHTML = contents;
     

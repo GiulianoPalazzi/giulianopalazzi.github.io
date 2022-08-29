@@ -23,11 +23,6 @@ position: relative;
 width: 725px;
 }
 
-.segment {
-position: relative;
-width: 725px;
-}
-
 .sidebar {
 position: fixed;
 left: 0;
@@ -37,6 +32,16 @@ top: 3em;
 }
 
 .contents {
+position: relative;
+right: 0;
+height: 90%;
+}
+
+div.contents > nav > div > ul {
+margin-top: 0;
+}
+
+.toc {
 position: fixed;
 right: 0;
 height: 90%;
