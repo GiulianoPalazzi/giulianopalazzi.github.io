@@ -20,43 +20,6 @@ backlinktitle: Chemistry Main Page
 # Antoine Lavoisier
 https://en.wikipedia.org/wiki/Antoine_Lavoisier
 ## Law of conservation of mass (1785)
-askljdfalskjf
-### 1this is a test heading
-"The mass of the products of a chemical reaction is exactly equal to that of reactants"
-### 2hello
-#### this is a test heading
-"The mass of the products of a chemical reaction is exactly equal to that of reactants"
-### 3this one too
-"The mass of the products of a chemical reaction is exactly equal to that of reactants"
-### 8this one too
-"The mass of the products of a chemical reaction is exactly equal to that of reactants"
-## 4Law of conservation of mass (1785)
-askljdfalskjf
-### 5this is a test heading
-"The mass of the products of a chemical reaction is exactly equal to that of reactants"
-### 6hello
-#### this is a test heading
-"The mass of the products of a chemical reaction is exactly equal to that of reactants"
-### 7this one too
-"The mass of the products of a chemical reaction is exactly equal to that of reactants"
-## 4Law of conservation of mass (1785)
-askljdfalskjf
-## 4Law of conservation of mass (1785)
-askljdfalskjf
-### 5this is a test heading
-"The mass of the products of a chemical reaction is exactly equal to that of reactants"
-### 6hello
-#### this is a test heading
-"The mass of the products of a chemical reaction is exactly equal to that of reactants"
-### 7this one too
-"The mass of the products of a chemical reaction is exactly equal to that of reactants"
-
-
-
-
-# Antoine Lavoisier
-https://en.wikipedia.org/wiki/Antoine_Lavoisier
-## Law of conservation of mass (1785)
 "The mass of the products of a chemical reaction is exactly equal to that of reactants"
 
 #  Joseph Proust
@@ -71,7 +34,8 @@ https://en.wikipedia.org/wiki/Joseph_Proust
 1. The atoms of an element cannot turn into atoms of another element: in a chemical reaction the original substances get separated into atoms that do recombine to form different substances. (a la mierda la alquimia).
 1. The atoms of an element show identical mass and properties and are different from any atom of other elements.
 1. The compounds are formed by the chemical combination of a specific number of different atoms.
-## Couldn't explain:
+
+### Couldn't explain:
 * existence of sub-atomic particles that were electrically charged
 
 ## Law of simple multiple proportions
@@ -114,4 +78,3 @@ It has the same mass as a proton (1 amu) and has no charge
 Anyways the model of the atom was an improvement over Dalton's model
 
 # Inside an Atom
-## this is added to prevent the error
