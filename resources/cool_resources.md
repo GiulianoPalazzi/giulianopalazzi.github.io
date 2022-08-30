@@ -22,7 +22,7 @@ Many of these things if not all I use for note taking and I regard them as basic
 
 ### Books
 * <a href="https://z-lib.org/" target="_blank">Z library</a> Most likely has the book you are looking for (link on this page might not work where you are at so google for you local mirror of this site)\
-note: if book limit download reached use a temp mail service
+**note**: if book limit download reached use a temp mail service
 to make an account and if book <br />  not available in through regular internet
 you might have to use tor protocol to access it
 * <a href="https://librivox.org/" target="_blank">Librivox</a> Has a lot of audiobooks but isn't very easy to search (uses torrent protocol for sharing files)
@@ -46,6 +46,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 ### On note taking
 * <a href="https://castel.dev/post/lecture-notes-1/" target="_blank">Latex/vim PhD student</a>
 * <a href="https://ericchapdelaine.com/articles/how-i-take-notes" target="_blank">Latex HTML american undergrad student</a>
+* [Niklas Luhmann's two essays](https://luhmann.surge.sh/){:target="_blank"} He is the guy who invented the zettlekasten (slip papers/boxes) method for taking and organizing notes
   
 ### Other websites worth losing time in
 * <a href="https://archive.org/" target="_blank">The Archive</a> Cornucopia of the internet, and most beautiful of nymphs for the eyes of a procastinator
@@ -77,5 +78,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * <a href="https://gigamonkeys.com/" target="_blank">gigamonkeys</a> Peter Seibel's personal website... here mainly because I liked the design but the articles might be interesting
 * <a href="https://ryan.himmelwright.net/post/scripting-tmux-workspaces/" target="_blank">ryan ferris sweep guy</a> Has some articles on 34 key layouts and an article on tmux start up scripts
 * <a href="hugo">Nice Hugo templates</a> I will have to look for some nice jekyll ones too
+
+### <a href="used_this_website" >Resources & Plan of this site</a>
 
 ### <a href="link_dump" >Unsorted link dump</a>
