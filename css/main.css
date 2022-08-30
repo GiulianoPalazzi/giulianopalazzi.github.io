@@ -75,6 +75,14 @@ h1 > span {
   float: right;
 }
 
+h3 {
+margin-bottom: 0;
+}
+
+ul {
+margin-top: 0;
+}
+
 nav.navBack > a {
   display: inline-block;
   position: fixed;
