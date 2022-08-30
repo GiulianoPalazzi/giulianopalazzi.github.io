@@ -46,7 +46,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 ### On note taking
 * <a href="https://castel.dev/post/lecture-notes-1/" target="_blank">Latex/vim PhD student</a>
 * <a href="https://ericchapdelaine.com/articles/how-i-take-notes" target="_blank">Latex HTML american undergrad student</a>
-* [Niklas Luhmann's two essays](https://luhmann.surge.sh/){:target="_blank"} He is the guy who invented the zettlekasten (slip papers/boxes) method for taking and organizing notes
+* [Niklas Luhmann's two essays](https://luhmann.surge.sh/){:target="_blank"} He is the guy who invented the zettlekasten (slip papers/boxes) method for taking and organizing notes. (The website also has a really clean css file)
   
 ### Other websites worth losing time in
 * <a href="https://archive.org/" target="_blank">The Archive</a> Cornucopia of the internet, and most beautiful of nymphs for the eyes of a procastinator
