@@ -1,0 +1,51 @@
+img {
+width: 70%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+h1 {
+margin: 0 0 14px 0;
+font-size: 2rem;
+display: block;
+font-weight: 700;
+padding: 0;
+}
+
+hr {
+margin: 8px 0 8px 0;
+display: block;
+border-width: 1px;
+}
+.segment {
+position: relative;
+width: 725px;
+}
+
+.sidebar {
+position: fixed;
+left: 0;
+height: 90%;
+width: calc(50% - 370px);
+top: 3em;
+}
+
+.contents {
+position: relative;
+right: 0;
+height: 100%;
+overflow-y: scroll;
+}
+
+div.contents > nav > div > ul {
+margin-top: 0;
+}
+
+.toc {
+position: fixed;
+right: 0;
+height: 90%;
+width: calc(50% - 355px);
+top: 3em;
+}

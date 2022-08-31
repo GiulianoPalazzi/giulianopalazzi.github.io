@@ -1,0 +1,142 @@
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--ff-body);
+}
+
+h1 {
+  font-family: var(--ff-title);
+}
+:root {
+  --clr-light: #F7F2C6;
+  --clr-dark: #556B2F;
+/*
+  --clr-light: #fdffc4;
+  --clr-dark: #00332a;
+  --clr-light: #556B2F;
+  --clr-dark: #F7F2C6;
+*/
+  --clr-primary: #dbffa2;
+  --clr-secondary: #c3fcf2;
+  --clr-accent: #ff7750;
+
+  --foreground: var(--clr-dark);
+  --background: var(--clr-light);
+
+  --ff-title: "Playfair Display", serif;
+  --ff-body: "Assistant", sans-serif;
+}
+
+/* Other Colour schemes
+
+  --clr-light: #292800; Niklas Luhmann dark theme as seen on RwxRobs video (link and timestamp bellow)
+  --clr-dark: #dedcd6;
+//https://www.youtube.com/watch?v=T2D3uO3oEM8&ab_channel=rwxrob
+//timestamp: 22:30
+
+  --clr-light: #1f9967; Japanese Evergreen tree theme
+  --clr-dark: #ffffff;
+//https://colors.japanesewithanime.com/japanese-colors/%E5%B8%B8%E7%A3%90%E8%89%B2-tokiwairo
+
+  --clr-light: #F7F2C6; My default reader light theme
+  --clr-dark: #556B2F;
+
+  --clr-light: #556B2F; Negative of default reader light theme
+  --clr-dark: #F7F2C6;
+
+  --clr-light: #96ac6c; Dark theme made with phone and light theme
+  --clr-dark: #282600;
+*/
+.darkmode {
+  --clr-light: #96ac6c;
+  --clr-dark: #282600;
+/*
+  --clr-light: #F7F2C6;
+  --clr-dark: #556B2F;
+*/
+  --clr-primary: #202302;
+  --clr-secondary: #00100d;
+  --clr-accent: #ff7750;
+
+  --foreground: var(--clr-light);
+  --background: var(--clr-dark);
+}
+
+/*
+.darkmode {
+  --clr-light: #F7F2C6;
+  --clr-dark: #556B2F;
+  --clr-primary: #202302;
+  --clr-secondary: #00100d;
+  --clr-accent: #ff7750;
+
+  --foreground: var(--clr-light);
+  --background: var(--clr-dark);
+}
+*/
+
+.dark-mode-toggle {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+  color: var(--foreground);
+  border: 2px solid currentColor;
+  padding: 4px;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+}
+
+/*
+.newbutton {
+  position: absolute;
+  top: 0.75em;
+  right: 0.75em;
+  z-index: -1;
+    --tw-bg-opacity: 1;
+    --tw-border-opacity: 0.1;
+    --tw-text-opacity: 1;
+    border-width: 0;
+    border-style: solid;
+    border-color: #e5e7eb;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(59, 130, 246, 0.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+    --tw-shadow: 0 0 #0000;
+    margin: 0;
+    text-transform: none;
+    background-color: transparent;
+    cursor: pointer;
+    transition-property: background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 100ms;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0.5rem;
+    font-weight: 600;
+    border-radius: 9999px;
+}
+.newbuttonsvg {
+    --tw-bg-opacity: 1;
+    --tw-border-opacity: 0.1;
+    --tw-text-opacity: 1;
+    cursor: pointer;
+    border-width: 0;
+    border-color: #e5e7eb;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(59, 130, 246, 0.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+    --tw-shadow: 0 0 #0000;
+    vertical-align: middle;
+    width: 1.5rem;
+    height: 1.5rem;
+    fill: currentColor;
+}
+*/
