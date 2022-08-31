@@ -1,6 +1,6 @@
 ---
 layout: basic
-backlink: ./cool_resources.html
+backlink: /Cool_Resources
 backlinktitle: Cool Resouces Page
 ---
 On this page are the collection of resources I have used to create this website

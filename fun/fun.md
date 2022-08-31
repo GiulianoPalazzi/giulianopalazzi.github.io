@@ -1,8 +1,9 @@
 ---
 title: Fun
 layout: basic
-backlink: /index
+backlink: /
 backlinktitle: Main Page
+permalink: /fun/
 ---
 # This is a collection of fun visual found around the web
 

@@ -1,8 +1,9 @@
 ---
 title: Cool Resources
 layout: resources
-backlink: /index
+backlink: /
 backlinktitle: Main Page
+permalink: "/Cool_Resources"
 ---
 # This is a collection of websites I find cool and useful
 They are roughly divided into subcategories
@@ -12,7 +13,7 @@ They are roughly divided into subcategories
 * <a href="https://missing.csail.mit.edu/" target="_blank">Missing Semester</a> (a bunch of basic stuff put together by some M.I.T. profs)
 * <a href="https://commonmark.org/help/" target="_blank">Learn markdown in 10 mins</a> looks like it's not going away or getting changed anytime soon, like txt files, unlike the everchanging glorious MS docx files
 * <a href="https://rwxrob.live/" target="_blank">rwxrob personal website</a> Boost/Skilstak has a lot of goodies (specially for tmux, bash, vim, ssh and lynx quick searching)
-	* <a href="./rwxrob">RwxRob condensed summary</a>. This is just a list of stuff that I learnt or want to learn from him which I find useful
+	* <a href="/resources/rwxrob">RwxRob condensed summary</a>. This is just a list of stuff that I learnt or want to learn from him which I find useful
 * <a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a> One of the best websites for learning anything in general
 
 Many of these things if not all I use for note taking and I regard them as basic knowledge everyone should have
@@ -68,7 +69,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * dotfiles of the primeagen
 * checkout tmuxinator and primeagens tmux script and his harpoon script
 
-### <a href="keyboards" >Keyboards</a>
+### <a href="/resources/keyboards" >Keyboards</a>
 * This is in a seperate page because I don't want to populate this page full of keyboard resource links :)
 
 ### Random Extra Stuff I use
@@ -79,6 +80,6 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * <a href="https://ryan.himmelwright.net/post/scripting-tmux-workspaces/" target="_blank">ryan ferris sweep guy</a> Has some articles on 34 key layouts and an article on tmux start up scripts
 * <a href="hugo">Nice Hugo templates</a> I will have to look for some nice jekyll ones too
 
-### <a href="used_this_website" >Resources & Plan of this site</a>
+### <a href="/resources/used_this_website" >Resources & Plan of this site</a>
 
-### <a href="link_dump" >Unsorted link dump</a>
+### <a href="/resources/link_dump" >Unsorted link dump</a>

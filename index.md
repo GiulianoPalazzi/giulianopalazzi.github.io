@@ -1,6 +1,7 @@
 ---
 title: Main Page
 layout: main
+permalink: "/"
 ---
 # This will be my new website
 Link to the source code [github](https://github.com/GiulianoPalazzi/giulianopalazzi.github.io) repo of this site\

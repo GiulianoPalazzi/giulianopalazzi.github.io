@@ -1,7 +1,7 @@
 ---
 title: Keyboards
 layout: basic
-backlink: ./cool_resources.html
+backlink: /Cool_Resources
 backlinktitle: Cool Resouces Page
 ---
 # Hugo templates

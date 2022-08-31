@@ -1,7 +1,7 @@
 ---
 title: RwxRob
 layout: basic
-backlink: ./cool_resources
+backlink: /Cool_Resources
 backlinktitle: Cool Resources
 ---
 # RwxRob
