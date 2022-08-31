@@ -5,6 +5,7 @@ body {
   margin-top: 41px;
   margin-bottom: 50px;
 }
+
 .left_panel {
   width: 200px;
   border-top: solid 2px grey;
@@ -32,6 +33,7 @@ body {
   margin-bottom: 0px;
   vertical-align: top;
 }
+
 .left_panel > ul > li > a {
   display: inline-block;
   vertical-align: top;
@@ -98,6 +100,26 @@ nav.navBack > a {
   font-size: 20px;
   text-decoration: none;
 }
+
 nav.navBack > a::before {
   content: "Back to ";
 }
+
+body ::-webkit-scrollbar {
+-webkit-appearance: none;
+width: 10px
+height: 10px
+}
+
+body ::-webkit-scrollbar-thumb {
+cursor: pointer;
+border-radius: 5px;
+background: var(--scrollbar-thumb-clr);
+transition: color 0.2s ease;
+}
+
+body ::-webkit-scrollbar-track {
+border-radius: 2px;
+background: var(--scrollbar-track-clr);
+}
+

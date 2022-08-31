@@ -7,6 +7,7 @@ body {
 h1 {
   font-family: var(--ff-title);
 }
+
 :root {
   --clr-light: #F7F2C6;
   --clr-dark: #556B2F;
@@ -25,6 +26,9 @@ h1 {
 
   --ff-title: "Playfair Display", serif;
   --ff-body: "Assistant", sans-serif;
+
+  --scrollbar-track-clr: rgba(0,0,0,0.1);
+  --scrollbar-thumb-clr: rgba(0,0,0,0.25);
 }
 
 /* Other Colour schemes
@@ -47,6 +51,7 @@ h1 {
   --clr-light: #96ac6c; Dark theme made with phone and light theme
   --clr-dark: #282600;
 */
+
 .darkmode {
   --clr-light: #96ac6c;
   --clr-dark: #282600;
@@ -60,6 +65,9 @@ h1 {
 
   --foreground: var(--clr-light);
   --background: var(--clr-dark);
+
+  --scrollbar-track-clr: rgba(255,255,255,0.1);
+  --scrollbar-thumb-clr: rgba(255,255,255,0.25);
 }
 
 /*
