@@ -11,3 +11,6 @@ vendor/
 
 assets/icons/unused/
 assets/images/unused/
+
+# Ignored so I can delete it on my machine but it still stays up on github
+.gitattributes
