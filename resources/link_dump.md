@@ -4,10 +4,14 @@ layout: basic
 backlink: ./cool_resources.html
 backlinktitle: Cool Resouces Page
 ---
+
 # Link Dumpster
-<img src="/assets/images/Trash.webp" alt="garbage chute/trash compactor" width="90%"/>
+
+![garbage chute/trash compactor](/assets/images/Trash.webp){:style="margin: 0 auto 0 0;width: 90%;"}
 
 Where links I don't have time to sort end up. Like Han, Luke, Leia and Chewie in A New Hope(IV)
+
+---
 
 ## icons
 * [https://iconarchive.com/show/madagascar-icons-by-majdi-khawaja.html](https://iconarchive.com/show/madagascar-icons-by-majdi-khawaja.html)
@@ -23,3 +27,5 @@ Where links I don't have time to sort end up. Like Han, Luke, Leia and Chewie in
 * [https://iconarchive.com/show/star-wars-characters-icons-by-jonathan-rey.2.html](https://iconarchive.com/show/star-wars-characters-icons-by-jonathan-rey.2.html)
 * [https://iconarchive.com/show/fruitsalad-icons-by-fi3ur.html](https://iconarchive.com/show/fruitsalad-icons-by-fi3ur.html)
 * [https://iconarchive.com/show/square-animal-icons-by-martin-berube.html](https://iconarchive.com/show/square-animal-icons-by-martin-berube.html)
+
+---
