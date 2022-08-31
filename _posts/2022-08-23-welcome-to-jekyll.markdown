@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minima/post
 title:  "Welcome to Jekyll!"
 date:   2022-08-23 21:21:59 +0200
 categories: jekyll update

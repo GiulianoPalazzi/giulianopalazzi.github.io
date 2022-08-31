@@ -14,7 +14,7 @@ On this page are the collection of resources I have used to create this website
 	* [MathJax](https://www.mathjax.org/) - official site
 * [Jekyll](https://jekyllrb.com/) - official site
 * [Eric Chapdelaine blog](https://ericchapdelaine.com/)
-* blog section is using the default [minima(gh repo)](https://github.com/jekyll/minima) jekyll theme
+* Blog section is using the default [minima(gh repo)](https://github.com/jekyll/minima) jekyll theme
 
 ### Extra miscellaneous stuff
 
@@ -48,17 +48,23 @@ Array.from(javascript.links)
 
 ## Thing I want to add on
 
+### Big things
 * Zettlekasten notes database
 * Start blogging
 * Projects area when I eventually start making them
-	* this will then lead me to make a CV/resume page
-* File and Code line counter of this site on the main page
+	* This will then lead me to make a CV/resume page
 * Checkout "To consider adding" section and see if anything can be integrated
-	* integrate search
-	* get some nicer css
-* scollbar on toc if it is long
-* dynamic autoscrolling toc
+	* Integrate search
+	* Get some nicer css
+
+### Small features
+* File and Code line counter of this site on the main page
+* Scollbar on toc if it is long
+	* Style scrollbar
+* Dynamic autoscrolling toc
+* Copy how XahLee displays codeblocks
+	* Add code highlighting
 
 ## Thing completed from the above list
 
-* Fix blog posts theme
+1. Fix blog posts theme
