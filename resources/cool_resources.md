@@ -3,7 +3,7 @@ title: Cool Resources
 layout: resources
 backlink: /
 backlinktitle: Main Page
-permalink: "/Cool_Resources"
+permalink: "/Cool_Resources/"
 ---
 # This is a collection of websites I find cool and useful
 They are roughly divided into subcategories
