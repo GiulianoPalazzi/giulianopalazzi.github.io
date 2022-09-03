@@ -69,13 +69,13 @@ Array.from(javascript.links)
 * Checkout "To consider adding" section and see if anything can be integrated
 	* Integrate search
 	* Get some nicer css
-* Checkout Markdown/Kramdown tips and tricks page
 
 ### Small features
 * File and Code line counter of this site on the main page
 * Dynamic autoscrolling toc
 * Copy how XahLee displays codeblocks
 	* Add code highlighting
+* Create coyote 404 page
 
 ## Thing completed from the above list
 
