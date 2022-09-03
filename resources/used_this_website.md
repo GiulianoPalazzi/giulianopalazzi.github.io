@@ -15,6 +15,8 @@ On this page are the collection of resources I have used to create this website
 * [Jekyll](https://jekyllrb.com/) - official site
 * [Eric Chapdelaine blog](https://ericchapdelaine.com/)
 * Blog section is using the default [minima(gh repo)](https://github.com/jekyll/minima) jekyll theme
+* TOC written in Liquid so can be used with `include` command in a layout [github repo](https://github.com/allejo/jekyll-toc){: target="_blank"}. (Is in my `_includes` file but isn't in use yet)
+* Pure Kramdown TOC [Stack Overflow](https://stackoverflow.com/questions/38417624/table-of-contents-using-jekyll-and-kramdown){: target="_blank"}, [Official Kramdown documentation](https://kramdown.gettalong.org/converter/html.html#toc){: target="_blank"}.
 
 ### Extra miscellaneous stuff
 
