@@ -7,28 +7,29 @@ On this page are the collection of resources I have used to create this website
 
 ## Main sources (meat & potatoes of the site per se)
 
-* [Markdown](https://daringfireball.net/projects/markdown/) - official documentation
-* [Kramdown](https://kramdown.gettalong.org/) - official documentation
-* [KaTeX](https://katex.org/) - official site
-	* Consider switching to [MathJax](https://kramdown.gettalong.org/math_engine/mathjax.html)
-	* [MathJax](https://www.mathjax.org/) - official site
-* [Jekyll](https://jekyllrb.com/) - official site
-* [Eric Chapdelaine blog](https://ericchapdelaine.com/)
-* Blog section is using the default [minima(gh repo)](https://github.com/jekyll/minima) jekyll theme
+* [Markdown](https://daringfireball.net/projects/markdown/){: target="_blank"} - official documentation
+* [Kramdown](https://kramdown.gettalong.org/){: target="_blank"} - official documentation
+* [KaTeX](https://katex.org/){: target="_blank"} - official site
+	* Consider switching to [MathJax](https://kramdown.gettalong.org/math_engine/mathjax.html){: target="_blank"}
+	* [MathJax](https://www.mathjax.org/){: target="_blank"} - official site
+* [Jekyll](https://jekyllrb.com/){: target="_blank"} - official site
+* [Eric Chapdelaine blog](https://ericchapdelaine.com/){: target="_blank"}
+* Blog section is using the default [minima(gh repo)](https://github.com/jekyll/minima){: target="_blank"} jekyll theme
 * TOC written in Liquid so can be used with `include` command in a layout [github repo](https://github.com/allejo/jekyll-toc){: target="_blank"}. (Is in my `_includes` file but isn't in use yet)
 * Pure Kramdown TOC [Stack Overflow](https://stackoverflow.com/questions/38417624/table-of-contents-using-jekyll-and-kramdown){: target="_blank"}, [Official Kramdown documentation](https://kramdown.gettalong.org/converter/html.html#toc){: target="_blank"}.
 
 ### Extra miscellaneous stuff
 
-* [Adding markdown to linguist repo stats](https://joshuatz.com/posts/2019/how-to-get-github-to-recognize-a-pure-markdown-repo/)
+* [Adding markdown to linguist repo stats](https://joshuatz.com/posts/2019/how-to-get-github-to-recognize-a-pure-markdown-repo/){: target="_blank"}
 
 ---
 ## Kramdown tricks
 
-* Adding html attributes to things (I stumbled accross this cos I wanted to left align an image)\
-[Stack Overflow thread](https://stackoverflow.com/questions/23819197/jekyll-blog-post-centering-images)\
-[Kramdown documentation about the matter for image](https://kramdown.gettalong.org/syntax.html#images)\
-[Kramdown documentation about the matter in general](https://kramdown.gettalong.org/syntax.html#attribute-list-definitions)
+* Adding html attributes to things (I stumbled accross this cos I wanted to left align an image){: target="_blank"}\
+[Stack Overflow thread](https://stackoverflow.com/questions/23819197/jekyll-blog-post-centering-images){: target="_blank"}\
+[Kramdown documentation about the matter for image](https://kramdown.gettalong.org/syntax.html#images){: target="_blank"}\
+[Kramdown documentation about the matter in general](https://kramdown.gettalong.org/syntax.html#attribute-list-definitions){: target="_blank"}
+* [Markdown/Kramdown tips and tricks page](https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/){: target="_blank"}
 
 ---
 
@@ -42,8 +43,8 @@ Array.from(javascript.links)
     .forEach(link => link.target = '_blank');
 ```
 
-* [Hyderjack](https://hydejack.com/) - This is a jekyll theme that is payed ($39 lol) but you can get for free by looking at the source code of a site that uses it\
-[Lazy Ren blog](https://github.com/LazyRen/LazyRen.github.io) - Blog that uses it\
+* [Hyderjack](https://hydejack.com/){: target="_blank"} - This is a jekyll theme that is payed ($39 lol) but you can get for free by looking at the source code of a site that uses it\
+[Lazy Ren blog](https://github.com/LazyRen/LazyRen.github.io){: target="_blank"} - Blog that uses it\
 *note*: lol the guy in the blog has customised the theme but hasn't bothered changing the titlepages and the favicon
 
 ---
@@ -58,6 +59,7 @@ Array.from(javascript.links)
 * Checkout "To consider adding" section and see if anything can be integrated
 	* Integrate search
 	* Get some nicer css
+* Checkout Markdown/Kramdown tips and tricks page
 
 ### Small features
 * File and Code line counter of this site on the main page
