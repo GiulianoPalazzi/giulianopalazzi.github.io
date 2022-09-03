@@ -60,6 +60,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 ### Computer Science Resources
 * <a href="https://rosikand.github.io/notes/" target="_blank">rosikand blog with CS notes</a>
 * <a href="https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/" target="_blank">Stanford CS103 all class material (PSets and solutions)</a> Found this, I wonder how much other stuff I can find floating around in the ether
+* [A tour of Go](https://go.dev/tour/welcome/1){: target="_blank"} Go is the language to learn after Python imo. (It was designed by Dennis Ritchie, that should be enough reason to learn it!)
 
 ### Vim
 * <a href="https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R" target="_blank">The primaegen's six video series</a> really good at covering the basics
