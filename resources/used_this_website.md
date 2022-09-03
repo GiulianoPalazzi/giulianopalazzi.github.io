@@ -25,7 +25,7 @@ On this page are the collection of resources I have used to create this website
 ---
 ## Kramdown tricks
 
-* Adding html attributes to things (I stumbled accross this cos I wanted to left align an image){: target="_blank"}\
+* Adding html attributes to things (I stumbled accross this cos I wanted to left align an image)\
 [Stack Overflow thread](https://stackoverflow.com/questions/23819197/jekyll-blog-post-centering-images){: target="_blank"}\
 [Kramdown documentation about the matter for image](https://kramdown.gettalong.org/syntax.html#images){: target="_blank"}\
 [Kramdown documentation about the matter in general](https://kramdown.gettalong.org/syntax.html#attribute-list-definitions){: target="_blank"}
@@ -46,6 +46,16 @@ Array.from(javascript.links)
 * [Hyderjack](https://hydejack.com/){: target="_blank"} - This is a jekyll theme that is payed ($39 lol) but you can get for free by looking at the source code of a site that uses it\
 [Lazy Ren blog](https://github.com/LazyRen/LazyRen.github.io){: target="_blank"} - Blog that uses it\
 *note*: lol the guy in the blog has customised the theme but hasn't bothered changing the titlepages and the favicon
+* Checkout the following pages for dynamic TOCs:
+	* [https://ouyi.github.io/post/2017/12/31/jekyll-table-of-contents.html](https://ouyi.github.io/post/2017/12/31/jekyll-table-of-contents.html){:target="_blank"}
+	* [https://webdevtrick.com/dynamic-table-of-contents/](https://webdevtrick.com/dynamic-table-of-contents/){:target="_blank"}
+	* [https://craig-creeger.github.io/javascript/table-of-contents.html](https://craig-creeger.github.io/javascript/table-of-contents.html){:target="_blank"}
+	* [http://www.whitsoftdev.com/articles/toc.html](http://www.whitsoftdev.com/articles/toc.html){:target="_blank"}
+	* [https://inspiredwebdev.com/create-dynamic-sticky-table-of-contents/](https://inspiredwebdev.com/create-dynamic-sticky-table-of-contents/){:target="_blank"}
+	* [https://docraptor.com/documentation/article/1068722-code-example-dynamic-table-of-contents](https://docraptor.com/documentation/article/1068722-code-example-dynamic-table-of-contents){:target="_blank"}
+* Checkout the following pages for writting books:
+	* [https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart](https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart){:target="_blank"}
+	* [https://github.com/MichaelCurrin/mdbook-quickstart](https://github.com/MichaelCurrin/mdbook-quickstart){:target="_blank"}
 
 ---
 
@@ -63,8 +73,6 @@ Array.from(javascript.links)
 
 ### Small features
 * File and Code line counter of this site on the main page
-* Scollbar on toc if it is long
-	* Style scrollbar
 * Dynamic autoscrolling toc
 * Copy how XahLee displays codeblocks
 	* Add code highlighting
@@ -72,3 +80,5 @@ Array.from(javascript.links)
 ## Thing completed from the above list
 
 1. Fix blog posts theme
+1. Scollbar on toc if it is long
+	1. Style scrollbar
