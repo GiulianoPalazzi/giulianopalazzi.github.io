@@ -21,6 +21,7 @@ On this page are the collection of resources I have used to create this website
 ### Extra miscellaneous stuff
 
 * [Adding markdown to linguist repo stats](https://joshuatz.com/posts/2019/how-to-get-github-to-recognize-a-pure-markdown-repo/){: target="_blank"}
+* [Advanced Jekyll article](https://dexp.in/articles/advanced-jekyll/)
 
 ---
 ## Kramdown tricks
@@ -56,6 +57,7 @@ Array.from(javascript.links)
 * Checkout the following pages for writting books:
 	* [https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart](https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart){:target="_blank"}
 	* [https://github.com/MichaelCurrin/mdbook-quickstart](https://github.com/MichaelCurrin/mdbook-quickstart){:target="_blank"}
+* Look for some nice Jekyll theme on their [page](http://jekyllthemes.org/page9/){:target="_blank"}
 
 ---
 

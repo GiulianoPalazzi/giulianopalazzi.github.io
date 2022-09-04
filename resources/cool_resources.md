@@ -18,6 +18,8 @@ They are roughly divided into subcategories
 
 Many of these things if not all I use for note taking and I regard them as basic knowledge everyone should have
 
+* I haven't tried this one but it is said that it is pretty good: [Learn X in Y minutes](https://www.reddit.com/r/InternetIsBeautiful/comments/qoz9vg/you_found_the_place_that_will_teach_you_how_to/){:target="_blank"}
+
 ### Media in general
 * <a href="https://www.reddit.com/r/Piracy/wiki/megathread/" target="_blank">r/piracy</a> on reddit
 
@@ -54,6 +56,9 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * <a href="https://lukesmith.xyz/" target="_blank">Luke Smith's personal website</a> personification of redpilled, equisde
 * <a href="http://xahlee.org/" target="_blank">Xah Lee's personal website</a> He has a shit tonne of stuff, as he said the website is his life's work (I have stolen some css from his sites). Strong stuff to highlight: Programming section (has self learning material for a lot of language and has a good tutorial on emacs which he used to sell but it is free now, same as his javascript course) and Keyboard section
 * <a href="https://fravia.net/" target="_blank">Fravia's website (Learn How to search)</a>
+	* Who was [Fravia](https://wikimili.com/en/Fravia){:target="_blank"}
+	* [Reddit post](https://www.reddit.com/r/InternetIsBeautiful/comments/qoz9vg/you_found_the_place_that_will_teach_you_how_to/){:target="_blank"} about Fravia's site
+	* [Google advanced search operators](https://www.youtube.com/watch?v=VHCzU6sJagw&ab_channel=RankYa){:target="_blank"} Youtube video. Explain stuff like the Filetype: search
 * <a href="https://blog.codinghorror.com/" target="_blank">Jeff Atwood's personal blog site</a> (he founded stackoverflow and has some nice blog articles and reading list recommendations)
 * <a href="https://ciechanow.ski/" target="_blank">Cool blog with nice animations</a> This blog explains with thorough animations how mechanical watches work and other stuff like GPS in the archives section of the site
 
@@ -69,9 +74,12 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * vim-be-good from the primeagen
 * dotfiles of the primeagen
 * checkout tmuxinator and primeagens tmux script and his harpoon script
+* [Elijah Manor's blog](https://elijahmanor.com/blog/neovim-tmux){:target="_blank"} has a bunch of Vim resources at the end of the blog post
 
 ### <a href="/resources/keyboards" >Keyboards</a>
 * This is in a seperate page because I don't want to populate this page full of keyboard resource links :)
+* Custom computers in old thinkpad chasis [xy tech site](https://www.xyte.ch/mods/x210-x2100/){:target="_blank"}. I have suspicions that he is a student in Singapore
+* https://www.notebookcheck.net/Enthusiasts-bring-classic-ThinkPad-designs-to-the-modern-era.194630.0.html
 
 ### Random Extra Stuff I use
 * <a href="https://temp-mail.org/en/" target="_blank">Temporary mail address</a> Useful for one time burn accounts
@@ -80,6 +88,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * <a href="https://gigamonkeys.com/" target="_blank">gigamonkeys</a> Peter Seibel's personal website... here mainly because I liked the design but the articles might be interesting
 * <a href="https://ryan.himmelwright.net/post/scripting-tmux-workspaces/" target="_blank">ryan ferris sweep guy</a> Has some articles on 34 key layouts and an article on tmux start up scripts
 * <a href="hugo">Nice Hugo templates</a> I will have to look for some nice jekyll ones too
+* [Toshima clean blog site](https://blog.toshima.ru/){:target="_blank"}
 
 ### <a href="/resources/used_this_website" >Resources & Plan of this site</a>
 
