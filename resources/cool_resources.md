@@ -69,6 +69,8 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 	* Who was [Fravia](https://wikimili.com/en/Fravia){:target="_blank"}
 	* [Reddit post](https://www.reddit.com/r/InternetIsBeautiful/comments/qoz9vg/you_found_the_place_that_will_teach_you_how_to/){:target="_blank"} about Fravia's site
 	* [Google advanced search operators](https://www.youtube.com/watch?v=VHCzU6sJagw&ab_channel=RankYa){:target="_blank"} Youtube video. Explain stuff like the Filetype: search
+	* [https://fravia.net/machine_translation.htm](https://fravia.net/machine_translation.htm){:target="_blank"}
+	* [https://fravia.net/dictiona.htm](https://fravia.net/dictiona.htm){:target="_blank"}
 * <a href="https://blog.codinghorror.com/" target="_blank">Jeff Atwood's personal blog site</a> (he founded stackoverflow and has some nice blog articles and reading list recommendations)
 * <a href="https://ciechanow.ski/" target="_blank">Cool blog with nice animations</a> This blog explains with thorough animations how mechanical watches work and other stuff like GPS in the archives section of the site
 
