@@ -22,6 +22,8 @@ On this page are the collection of resources I have used to create this website
 
 * [Adding markdown to linguist repo stats](https://joshuatz.com/posts/2019/how-to-get-github-to-recognize-a-pure-markdown-repo/){: target="_blank"}
 * [Advanced Jekyll article](https://dexp.in/articles/advanced-jekyll/)
+* [Regex editor and viewer](https://regex101.com/r/8VJpSQ/1){:target="_blank"} - I used this to get some of the regex that allows the collapsible notes sections
+* Codepen for [Growing text](https://codepen.io/Itsca/pen/kYYdor){:target="_blank"}.
 
 ---
 ## Kramdown tricks

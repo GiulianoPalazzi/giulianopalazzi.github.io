@@ -18,6 +18,32 @@ Link to a copy of eric chapelalelala's note [here](/notes/math1341) to see if Ka
 Link to a copy of chemistry note [here](/uni/chem/the_atom) to see if KaTeK and the javascript for minimising work\\
 Link to my test notes to test out the snippets [here](/notes/testnote)\\
 My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
+
+## Things I want to add on
+
+### Big things
+* Zettlekasten notes database
+* Start blogging
+* Projects area when I eventually start making them
+	* This will then lead me to make a CV/resume page
+* Checkout "To consider adding" section and see if anything can be integrated
+	* Integrate search
+	* Get some nicer css
+
+### Small features
+* File and Code line counter of this site on the main page
+* Dynamic autoscrolling toc
+* Copy how XahLee displays codeblocks
+	* Add code highlighting
+* Create coyote 404 page
+* style links
+* style toc and their links
+
+## Things completed from the above list
+
+1. Fix blog posts theme
+1. Scollbar on toc if it is long
+	1. Style scrollbar
 </div>
 <div class="bach" style="margin-top: -12px; margin-left: 8px; margin-right: 4px;">
 ![](/assets/images/Bach.jpg){:style="width: 100%"}
