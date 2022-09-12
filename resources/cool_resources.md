@@ -30,6 +30,13 @@ to make an account and if book <br />  not available in through regular internet
 you might have to use tor protocol to access it
 * <a href="https://librivox.org/" target="_blank">Librivox</a> Has a lot of audiobooks but isn't very easy to search (uses torrent protocol for sharing files)
 * <a href="https://standardebooks.org/ebooks" target="_blank">Standardebooks</a> Best for old books that are out of copyright and for EPUB books, they have the best text formatting I've seen
+* [Biblio](https://www.biblio.com/){:target="_blank"} a better site than amazon for buying used book
+* Ebay for second hand books
+* Local second hand book shops
+
+#### Book recomendations and lists
+
+* [Luke Smith](https://www.youtube.com/watch?v=X9cBFNbihFU&ab_channel=LukeSmith){:target="_blank"} video where he goes through his book he bought in 2019
 
 ### Movies
 * YTS movies
@@ -50,7 +57,9 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * <a href="https://castel.dev/post/lecture-notes-1/" target="_blank">Latex/vim PhD student</a>
 * <a href="https://ericchapdelaine.com/articles/how-i-take-notes" target="_blank">Latex HTML american undergrad student</a>
 * [Niklas Luhmann's two essays](https://luhmann.surge.sh/){:target="_blank"} He is the guy who invented the zettlekasten (slip papers/boxes) method for taking and organizing notes. (The website also has a really clean css file)
-  
+* [Math support in markdown - github blogpost](https://github.blog/2022-05-19-math-support-in-markdown/){:target="_blank"}
+* [RwxRob Knowledge Net (KN)](https://gitlab.com/rwx.gg/kn/README){:target="_blank"}
+
 ### Other websites worth losing time in
 * <a href="https://archive.org/" target="_blank">The Archive</a> Cornucopia of the internet, and most beautiful of nymphs for the eyes of a procastinator
 * <a href="https://lukesmith.xyz/" target="_blank">Luke Smith's personal website</a> personification of redpilled, equisde
@@ -66,6 +75,10 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * <a href="https://rosikand.github.io/notes/" target="_blank">rosikand blog with CS notes</a>
 * <a href="https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/" target="_blank">Stanford CS103 all class material (PSets and solutions)</a> Found this, I wonder how much other stuff I can find floating around in the ether
 * [A tour of Go](https://go.dev/tour/welcome/1){: target="_blank"} Go is the language to learn after Python imo. (It was designed by Dennis Ritchie, that should be enough reason to learn it!)
+* [RwxRob vid on best way to learn data structure and algorithms](https://www.youtube.com/watch?v=zpcv7lFip5Q&ab_channel=rwxrob){:target="_blank"}
+* [PicoCTF](https://picoctf.org/){:target="_blank"} a site to learn cyber security for free by Carnegie mellon Uni
+* [Free CS resources](https://github.com/EbookFoundation/free-programming-books){:target="_blank"}
+* [List of lists of resources](https://github.com/stars/Xaxeric/lists/godmode-knowledge){:target="_blank"} the same guy has other lists which might be worth checking out
 
 ### Vim
 * <a href="https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R" target="_blank">The primaegen's six video series</a> really good at covering the basics
@@ -75,6 +88,14 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * dotfiles of the primeagen
 * checkout tmuxinator and primeagens tmux script and his harpoon script
 * [Elijah Manor's blog](https://elijahmanor.com/blog/neovim-tmux){:target="_blank"} has a bunch of Vim resources at the end of the blog post
+* Ctrl-k to insert special characters (accents and diacritics) [Luke Smith video](https://www.youtube.com/watch?v=WPvvOEiiF28&ab_channel=LukeSmith){:target="_blank"} which briefly mentions it
+* [Vimhelp website](https://vimhelp.org/intro.txt.html#internet){:target="_blank"}
+
+#### Plugins
+* [Lightspeed](https://github.com/ggandor/lightspeed.nvim){:target="_blank"}
+
+### Linux
+* [Rofi ricing](https://github.com/adi1090x/rofi){:target="_blank"}
 
 ### <a href="/resources/keyboards" >Keyboards</a>
 * This is in a seperate page because I don't want to populate this page full of keyboard resource links :)
