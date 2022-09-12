@@ -78,6 +78,8 @@ Array.from(javascript.links)
 * Copy how XahLee displays codeblocks
 	* Add code highlighting
 * Create coyote 404 page
+* style links
+* style toc and their links
 
 ## Thing completed from the above list
 
