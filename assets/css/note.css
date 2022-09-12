@@ -49,3 +49,13 @@ height: 90%;
 width: calc(50% - 355px);
 top: 3em;
 }
+
+details > summary {
+font-size: 16px;
+transition: font-size .3s;
+}
+
+details[open] > summary {
+font-size: 2em;
+font-weight: bold;
+}

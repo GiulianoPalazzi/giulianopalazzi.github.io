@@ -1,4 +1,9 @@
 @charset "UTF-8";
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: Arial, Arimo, "Liberation Sans", "Segoe UI Emoji",
     "Apple Color Emoji", "Noto Color Emoji", sans-serif;
@@ -122,4 +127,18 @@ body ::-webkit-scrollbar-track {
 border-radius: 2px;
 background: var(--scrollbar-track-clr);
 }
+.bach {
+width:3%;
+transition: .5s;
+}
+.bach > p > em {
+font-size: 0.5vw;
+transition: font-size .5s;
+}
 
+.bach:hover {
+width: 80%;
+}
+.bach:hover > p > em {
+font-size: 5vw;
+}
