@@ -17,3 +17,4 @@ Link to a copy of eric chapelalelala's note [here](/notes/math1341) to see if Ka
 Link to a copy of chemistry note [here](/uni/chem/the_atom) to see if KaTeK and the javascript for minimising work\\
 Link to my test notes to test out the snippets [here](/notes/testnote)\\
 My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
+![Bach with his tounge out](/assets/images/bach.jpeg}){:style="margin: 0 auto 0 0;width: 20%;"}
