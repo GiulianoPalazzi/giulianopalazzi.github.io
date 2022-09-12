@@ -8,6 +8,7 @@ permalink: "/Cool_Resources/"
 # This is a collection of websites I find cool and useful
 They are roughly divided into subcategories
 
+![De tuin der lusten](/assets/images/Jardin.jpg){:style="margin: 0 auto 0 0;width: 90%;"}
 ### Learning
 * <a href="https://www.typing.com/" target="_blank">Typing.com</a> Increase the bandwidth between you and your computer<!--Learn to touch type it is crucial, this is the website I used to learn (learnt it over the pandemic). As Jeff Atwood (one of the founders of stackoverflow) once said "We are typists first, then programmers"-->.
 * <a href="https://missing.csail.mit.edu/" target="_blank">Missing Semester</a> (a bunch of basic stuff put together by some M.I.T. profs)
