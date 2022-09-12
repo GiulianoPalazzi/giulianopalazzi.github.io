@@ -42,9 +42,7 @@ body {
 /* Full screen media query */
 @media all and (min-width: 801px) {
   main {
-    width: 60%;
     margin-left: 215px;
-    margin-right: auto;
     }
     nav.navBack > a::before {
       content: "Back to ";
