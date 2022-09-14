@@ -32,6 +32,7 @@ e.g.\\
 $det(A) = \begin{vmatrix} a & b & c\\\ d & e & f\\\ g & h & i  \end{vmatrix} = a \begin{vmatrix} e & f\\\ h & i \end{vmatrix} + b \begin{vmatrix} d & f\\\ g & i \end{vmatrix} + c \begin{vmatrix} d & e\\\ g & h \end{vmatrix}  $\\
 <div class="note-block">
 <strong>Note:</strong>
+
 This is just and example because as the Laplace exapansion can be done along any of the rows or the columns. It is generally better to do it along the row or column which has more zeros since that one will result in the easiest calculation
 </div>
 

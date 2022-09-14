@@ -29,6 +29,7 @@ h1 {
 
   --scrollbar-track-clr: rgba(0,0,0,0.1);
   --scrollbar-thumb-clr: rgba(0,0,0,0.25);
+  --note-block-bg-clr: rgba(255,255,255,0.5);
 }
 
 /* Other Colour schemes
@@ -68,6 +69,7 @@ h1 {
 
   --scrollbar-track-clr: rgba(255,255,255,0.1);
   --scrollbar-thumb-clr: rgba(255,255,255,0.25);
+  --note-block-bg-clr: rgba(0,0,0,0.5);
 }
 
 /*
