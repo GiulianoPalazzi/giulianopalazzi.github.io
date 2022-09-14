@@ -83,6 +83,9 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
   - [https://fravia.net/dictiona.htm](https://fravia.net/dictiona.htm){:target="\_blank"}
 - <a href="https://blog.codinghorror.com/" target="_blank">Jeff Atwood's personal blog site</a> (he founded stackoverflow and has some nice blog articles and reading list recommendations)
 - <a href="https://ciechanow.ski/" target="_blank">Cool blog with nice animations</a> This blog explains with thorough animations how mechanical watches work and other stuff like GPS in the archives section of the site
+* [Rotary LTE phone](http://www.justine-haupt.com/rotarycellphone/index.html){:target="_blank"}
+	* [Youtube video](https://www.youtube.com/watch?v=uV1C-41tq64&ab_channel=JustineHaupt){:target="_blank"} - longer video with assembly breakdown in the same channel
+	* She is selling a *no soldering* assembly kit, but it's quite costly and I think it's more fun to build it from scratch. Would be a nice side project, upgrade in difficulty from the code (Like going up the age difficulty on legos)
 
 ### Computer Science Resources
 
