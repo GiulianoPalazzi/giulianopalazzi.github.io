@@ -86,6 +86,11 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * [Rotary LTE phone](http://www.justine-haupt.com/rotarycellphone/index.html){:target="_blank"}
 	* [Youtube video](https://www.youtube.com/watch?v=uV1C-41tq64&ab_channel=JustineHaupt){:target="_blank"} - longer video with assembly breakdown in the same channel
 	* She is selling a *no soldering* assembly kit, but it's quite costly and I think it's more fun to build it from scratch. Would be a nice side project, upgrade in difficulty from the code (Like going up the age difficulty on legos)
+	* [Firmware](https://github.com/jhaupt/RotaryCellphone){:target="_blank"} - Github
+	* [STL 3D printer files](https://www.thingiverse.com/thing:4161708/files){:target="_blank"} - ThingiVerse
+	* [KiCAD files](http://www.justine-haupt.com/rotarycellphoneinfo/designfiles/electrical_kicad/){:target="_blank"}
+	* [Root dir with all files](http://www.justine-haupt.com/rotarycellphoneinfo/designfiles/){:target="_blank"}
+	* [A github repo of someone who forked it](https://github.com/riosil/RotaryCellphone){:target="_blank"}
 
 ### Computer Science Resources
 
