@@ -29,11 +29,15 @@ Laplace Expansion along any of the rows or columns
 If $A = \begin{bmatrix} a & b & c\\\ d & e & f\\\ g & h & i \end{bmatrix} $
 
 e.g.\\
-$det(A) = \begin{vmatrix} a & b & c\\\ d & e & f\\\ g & h & i  \end{vmatrix} = a \begin{vmatrix} e & f\\\ h & i \end{vmatrix} + b \begin{vmatrix} d & f\\\ g & i \end{vmatrix} + c \begin{vmatrix} d & e\\\ g & h \end{vmatrix}  $\\
+$det(A) = \begin{vmatrix} a & b & c\\\ d & e & f\\\ g & h & i  \end{vmatrix} = a \begin{vmatrix} e & f\\\ h & i \end{vmatrix} + b \begin{vmatrix} d & f\\\ g & i \end{vmatrix} + c \begin{vmatrix} d & e\\\ g & h \end{vmatrix}  $
+
 <div class="note-block">
 <strong>Note:</strong>
 
-This is just and example because as the Laplace exapansion can be done along any of the rows or the columns. It is generally better to do it along the row or column which has more zeros since that one will result in the easiest calculation
+This is just an example where the Laplace expansion was done alone the first
+row. But, the Laplace exapansion can be done along any of the rows or the
+columns. It is generally better to do it along the row or column which has the
+most zeros, since that will yield the easiest calculation
 </div>
 
 ## How to invert a matrix ##
@@ -42,16 +46,16 @@ This is just and example because as the Laplace exapansion can be done along any
 
 $A = \begin{bmatrix} a & b\\\ c & d \end{bmatrix} $
 
-The inverse is calculated with the following formula:\\
-$$
-A^{-1} = \frac{1}{\begin{vmatrix} det(A) \end{vmatrix} } \begin{bmatrix} d & -b\\\ -c & a \end{bmatrix}
-$$
+The inverse is calculated with the following formula:
+
+$ A^{-1} = \dfrac{1}{\begin{vmatrix} det(A) \end{vmatrix} } \begin{bmatrix} d & -b\\\ -c & a \end{bmatrix} $
 
 ### 3$\times$3 matrices ###
 
 $A = \begin{bmatrix} a & b & c\\\ d & e & f\\\ g & h & i \end{bmatrix} $
 
-The inverse is calculated with the following formula:\\
+The inverse is calculated with the following formula:
+
 1. Calculate the matrix of co-factors
 
 1. Get the adjugate or adjoint matrix from the matrix of co-factors\\
@@ -62,4 +66,4 @@ $-1^{i + j}$\\
 $\begin{bmatrix} + & - & +\\\ - & + & -\\\ + & - & + \end{bmatrix} $
 
 1. Lastly multiply by the reciprocal of the determinant\\
-$A^{-1} = \frac{1}{\begin{vmatrix} det(A) \end{vmatrix} } \begin{bmatrix} a & b & c\\\ d & e & f\\\ g & h & i \end{bmatrix} $
+$A^{-1} = \dfrac{1}{\begin{vmatrix} det(A) \end{vmatrix} } \begin{bmatrix} a & b & c\\\ d & e & f\\\ g & h & i \end{bmatrix} $
