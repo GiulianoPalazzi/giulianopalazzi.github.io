@@ -36,7 +36,6 @@ Write your thoughts down. They won't disappear if they are written down!
 	* Integrate search
 	* Get some nicer css
 * **Make a better footer**
-* Redesign home landing page (include mr. Johann Sebastian in it somehow)
 * Horizontal timeline blog home page
 * study hour logger
 * Make website searchable and navigable with a graph (Knowledge system, kinda like Obsidian)
