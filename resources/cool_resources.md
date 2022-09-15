@@ -24,6 +24,7 @@ They are roughly divided into subcategories
 Many of these things if not all I use for note taking and I regard them as basic knowledge everyone should have
 
 - I haven't tried this one but it is said that it is pretty good: [Learn X in Y minutes](https://www.reddit.com/r/InternetIsBeautiful/comments/qoz9vg/you_found_the_place_that_will_teach_you_how_to/){:target="\_blank"}
+* [Make magazine](https://makezine.com/){:target="_blank"}
 
 ### Media in general
 
@@ -91,6 +92,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 	* [KiCAD files](http://www.justine-haupt.com/rotarycellphoneinfo/designfiles/electrical_kicad/){:target="_blank"}
 	* [Root dir with all files](http://www.justine-haupt.com/rotarycellphoneinfo/designfiles/){:target="_blank"}
 	* [A github repo of someone who forked it](https://github.com/riosil/RotaryCellphone){:target="_blank"}
+* [Make magazine](https://makezine.com/){:target="_blank"}
 
 ### Computer Science Resources
 
@@ -101,6 +103,11 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 - [PicoCTF](https://picoctf.org/){:target="\_blank"} a site to learn cyber security for free by Carnegie mellon Uni
 - [Free CS resources](https://github.com/EbookFoundation/free-programming-books){:target="\_blank"}
 - [List of lists of resources](https://github.com/stars/Xaxeric/lists/godmode-knowledge){:target="\_blank"} the same guy has other lists which might be worth checking out
+* [Very nice ted talk by Neil Gershenfeld](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab?language=en){:target="_blank"}
+	* [Neil Gershenfeld](https://www.google.com/search?q=neil+gershenfeld&oq=Neil+Gershenfeld&aqs=chrome.0.0i355i512j46i512j0i512l2j0i22i30l3j69i60.1314j0j7&sourceid=chrome&ie=UTF-8){:target="_blank"}
+	* [Wikipedia](https://en.wikipedia.org/wiki/Neil_Gershenfeld){:target="_blank"}
+* [Nand2Tetris](https://www.nand2tetris.org/ ){:target="_blank"} - Awesome computer science course starting from the fundamentals
+	
 
 ### Vim
 

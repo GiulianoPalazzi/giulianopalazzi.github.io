@@ -81,3 +81,32 @@ He kinda ripped off of off Botticelli's work
 ### The four horsemen
 
 [Google Search](https://www.google.com/search?q=the+four+horsemen&oq=the+four+horsemen&aqs=chrome..69i57j46i512j0i512l6j46i512j0i512.4538j0j7&sourceid=chrome&ie=UTF-8){:target="\_blank"}
+
+### Thought logger ###
+
+If only there was a thought recorder just like there is a voice recorder
+
+### Seven bridges of konigsberg(Russia) ###
+
+This is the problem that lead Euler to create graph theory.
+Note: Euler although he was swiss he wrote in latin
+[Google Search](https://www.google.com/search?q=the+seven+bridges+of+k%C3%B6nigsberg&oq=the+seven+bri&aqs=chrome.0.0i512j69i57j0i512j46i512l2j0i512l5.5585j0j7&sourceid=chrome&ie=UTF-8){:target="_blank"}
+
+[Numberphile video](https://www.youtube.com/watch?v=W18FDEA1jRQ&ab_channel=Numberphile){:target="_blank"} - Youtube
+
+[Google maps of the konigsberg island](https://www.google.com/maps/place/Kaliningrad,+Kaliningrad+Oblast,+Russia/@54.7041503,20.5074974,16z/data=!4m5!3m4!1s0x46e33d8d4b7c21a9:0x5050960016126ed3!8m2!3d54.7104264!4d20.4522144){:target="_blank"}
+
+### Six degrees of separation (Movie) ###
+
+[Google Search](https://www.google.com/search?sxsrf=ALiCzsbyOlVHEPYs460WGWKk0b4tvSa56A:1663169972892&q=Six+Degrees+of+Separation+(film)&si=AC1wQDC27MMuB4JWWMNoqozt0Ye-pYzx6qoJ3ntktXCv4anVEkJ-8CWQsr4vXrWdiyWY8JcQ0JZr255g_PziME21e3pRe5VFV_f904cSWGW9-cmDryEWRblXNQk4g9uo13O895V95gRrbOMglGXpUeRBUnM_CdWL6L1sVcaRtqi_cGvpFYaOJ1Klcaw072l4WNtiiX6DzvDu&sa=X&ved=2ahUKEwiDtr37zpT6AhXM6aQKHTJoAL4Q6RN6BAg3EAE&biw=1920&bih=976&dpr=1){:target="_blank"}
+
+### Open Source hardware ted talk ###
+
+[ted talk vid](https://www.ted.com/talks/marcin_jakubowski_open_sourced_blueprints_for_civilization?language=en){:target="_blank"}
+
+### Make: magazine ###
+
+[Ted talk by someone related to the magazine](https://www.ted.com/talks/dale_dougherty_we_are_makers?subtitle=en){:target="_blank"}
+[Make magazine](https://makezine.com/){:target="_blank"}
+
+

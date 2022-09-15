@@ -10,6 +10,7 @@ backlinktitle: Cool Resouces Page
 I need to update this site with all my Vivaldi tabs lol
 
 ### Hardware
+* [Foldable keyboard](https://www.amazon.ca/Igo-Stowaway-Ultra-Slim-Bluetooth-Keyboard/dp/B0002OKCXE){:target="_blank"}
 
 ### Layout
 
