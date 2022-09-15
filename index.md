@@ -55,6 +55,7 @@ Write your thoughts down. They won't disappear if they are written down!
 * style links
 * style toc and their links
 * pull up logger
+* change close all and open all buttons in notes pages to a single toggle button
 
 </div>
 <div class="bach" style="margin-top: -12px; margin-left: 8px; margin-right: 4px;">
@@ -76,10 +77,12 @@ This is why I decided to take up Computer Engineering, to understand and build t
 Lol not cringe at all
 
 But basically I want to do this cos there are a lot of lists out there but they
-are either not condensed and have too many ways to learn the same thing or are
-limited by and only cover a subsection of *everything*
+are: 
+* either not condensed and have too many ways to learn the same thing 
+* or are limited by and only cover a subsection of *everything*
 
 A big part of learning everything and anything is learning how to learn.
-Learning how to be an autodidact.
+Learning how to be an autodidact. So I will also have to compile something on
+how to be an autodidact
 
 **Insatiable curiosity, galore!!**
