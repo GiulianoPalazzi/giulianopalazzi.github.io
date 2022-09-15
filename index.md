@@ -56,6 +56,7 @@ Write your thoughts down. They won't disappear if they are written down!
 * style toc and their links
 * pull up logger
 * change close all and open all buttons in notes pages to a single toggle button
+* migrate local todo/tolearn to here
 
 </div>
 <div class="bach" style="margin-top: -12px; margin-left: 8px; margin-right: 4px;">
