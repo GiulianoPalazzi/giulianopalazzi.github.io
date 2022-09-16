@@ -8,15 +8,16 @@ perm link: "/"
 # Don't Panic!! #
 And don't forget your towel
 
-They are here for the beginning phase of my website were I compare and try to achieve a similar setup but taylored to what I want\\
-So from now on this will
-become my sort of notes and blog website encompassing all of my interests that
-I can write about and also serving as a vault where I can store any good
-sources of knowledge or good ideas I have *every now and then.*
+Alexander the Great had Aristotle as his tutor, Cosimo II de' Medici had Galileo Galilei as his tutor, I have The Internet and many centuries of knowlegde as my tutor.
+
+This will become my sort of notes and blog website encompassing all of my
+interests that I can write about and also serving as a vault where I can store
+any good sources of knowledge or good ideas I have *every now and then.*\\
 **Now lets sit back enjoy and eat some [juicy gullasch](https://www.google.com/search?gs_ssp=eJzj4tTP1TcwzDI3LTJgdGDw4kgvzclJLE7OAABHzAae&q=gullasch&oq=gullasch&aqs=chrome.1.0i355i512j46i512j0i512l2j46i512j0i10i512l3.4758j1j7&sourceid=chrome&ie=UTF-8){:style="color: hotpink; text-decoration: none"}**.
 
 Link to the source code [github](https://github.com/GiulianoPalazzi/giulianopalazzi.github.io) repo of this site\\
-Link to the source code of the undergrad student's jekyll/katex <a href="https://github.com/eric-chapdelaine/eric-chapdelaine.github.io" target="_blank">github</a> repo site
+Link to the source code of the undergrad student's jekyll/katex <a href="https://github.com/eric-chapdelaine/eric-chapdelaine.github.io" target="_blank">github</a> repo site\\
+They are here for the beginning phase of my website were I compare and try to achieve a similar setup but taylored to what I want
 
 Link to a copy of eric chapelalelala's note [here](/notes/math1341) to see if KaTeK and the javascript for minimising work\\
 Link to a copy of chemistry note [here](/uni/chem/the_atom) to see if KaTeK and the javascript for minimising work\\
@@ -57,6 +58,7 @@ Write your thoughts down. They won't disappear if they are written down!
 * pull up logger
 * change close all and open all buttons in notes pages to a single toggle button
 * migrate local todo/tolearn to here
+* build flip text direction
 
 </div>
 <div class="bach" style="margin-top: -12px; margin-left: 8px; margin-right: 4px;">
