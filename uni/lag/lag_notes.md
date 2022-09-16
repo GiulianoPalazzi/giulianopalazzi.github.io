@@ -84,9 +84,17 @@ $$
 1. Lastly multiply by the reciprocal of the determinant\\
 $A^{-1} = \dfrac{1}{\begin{vmatrix} det(A) \end{vmatrix} } \begin{bmatrix} a & b & c\\\ d & e & f\\\ g & h & i \end{bmatrix} $
 
-# Cross product #
 # Dot product #
+[Wikipedia](https://en.wikipedia.org/wiki/Dot_product){:target="_blank"}
+
+# Cross product #
+[Wikipedia](https://en.wikipedia.org/wiki/Cross_product){:target="_blank"}
+Lovely tedious calculations that *abuses* standard math notation
+
 # Box/Mixed product #
+[Wikipedia](https://en.wikipedia.org/wiki/Triple_product){:target="_blank"}
+Half of Box prod will give the area of the tetahedron made by joining the three point. Basically half the area of the parallelopiped.
+
 # Cauchy-Schawartz inequelity #
 
 $\begin{Vmatrix} \vec{x} . \vec{y} \end{Vmatrix} \le \begin{Vmatrix} \vec{x} \end{Vmatrix} + \begin{Vmatrix} \vec{y} \end{Vmatrix}  $
@@ -125,5 +133,8 @@ Steps:
 
 [Youtube video](https://www.youtube.com/watch?v=O6O_64zIEYI&ab_channel=RadfordMathematics){:target="_blank"} going through the steps
 
+# Eigen Values #
 
+[3Blue1Brown video](https://www.youtube.com/watch?v=e50Bj7jn9IQ&ab_channel=3Blue1Brown){:target="_blank"}
 
+It shows a trick to solve for eigen values
