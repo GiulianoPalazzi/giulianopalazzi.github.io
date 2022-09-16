@@ -46,6 +46,7 @@ Write your thoughts down. They won't disappear if they are written down!
 	* add some database to them
 * personal hall of fame
 * what I want to learn section
+* language learning section
 
 ### Small features
 * File and Code line counter of this site on the main page
@@ -57,8 +58,9 @@ Write your thoughts down. They won't disappear if they are written down!
 * style toc and their links
 * pull up logger
 * change close all and open all buttons in notes pages to a single toggle button
-* migrate local todo/tolearn to here
+* migrate local todo/to learn to here
 * build flip text direction
+* add Tex roman numeral to documents
 
 </div>
 <div class="bach" style="margin-top: -12px; margin-left: 8px; margin-right: 4px;">
