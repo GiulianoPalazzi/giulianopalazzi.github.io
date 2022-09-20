@@ -78,7 +78,7 @@ $$
 &= \begin{bmatrix} + & - & +\\\ - & + & -\\\ + & - & + \end{bmatrix}\\
 \text{or} 
 &= \begin{bmatrix} 1 & -1 & 1\\\ -1 & 1 & -1\\\ 1 & -1 & 1 \end{bmatrix}\\
-\end{align*}
+\end{align*}$IV$
 $$
 
 1. Lastly multiply by the reciprocal of the determinant\\
