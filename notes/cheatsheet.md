@@ -11,3 +11,11 @@ website in markdown which later compiles to html
 eric chapdelaine's notes where he uses matrices (LAG notes)
 
 [Overleaf matrices cheatsheet](https://www.overleaf.com/learn/latex/Matrices#Inline_matrices){:target="_blank"}
+
+[Limits of sum under sum symbol](https://tex.stackexchange.com/questions/361037/position-the-limits-of-sum){:target="_blank"} Stack overflow forum post
+
+[https://katex.org/docs/support_table.html](https://katex.org/docs/support_table.html){:target="_blank"}\\
+[https://katex.org/docs/supported.html](https://katex.org/docs/supported.html){:target="_blank"}\\
+[https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits](https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits){:target="_blank"}
+
+[Mathfonts](https://www.overleaf.com/learn/latex/Mathematical_fonts){:target="_blank"}
