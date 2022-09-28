@@ -26,3 +26,7 @@ permalink: /fun/
 * [Flying Windows](https://codepen.io/jkantner/pen/OJvOOwE){: target="_blank"}
 * [Squares just squares](https://codepen.io/arhtu/pen/zYWPmKa){: target="_blank"}
 * [Loveless in the afterglow](https://codepen.io/TomHinton/details/VwXrKRg){: target="_blank"}
+
+# Games #
+* Windows XP [Space Cadet 3D Pinball](https://alula.github.io/SpaceCadetPinball/){:target="\_blank"}
+
