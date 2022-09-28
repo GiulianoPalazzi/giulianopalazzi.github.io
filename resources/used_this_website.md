@@ -19,6 +19,21 @@ On this page are the collection of resources I have used to create this website
 - TOC written in Liquid so can be used with `include` command in a layout [github repo](https://github.com/allejo/jekyll-toc){: target="\_blank"}. (Is in my `_includes` file but isn't in use yet)
 - Pure Kramdown TOC [Stack Overflow](https://stackoverflow.com/questions/38417624/table-of-contents-using-jekyll-and-kramdown){: target="\_blank"}, [Official Kramdown documentation](https://kramdown.gettalong.org/converter/html.html#toc){: target="\_blank"}.
 
+### Used to make the flip button ###
+
+* [Add class to root stackoverflow](https://stackoverflow.com/questions/13980982/add-class-to-html-with-javascript){:target="\_blank"}
+* [Mirror effect stackoverflow](https://stackoverflow.com/questions/5406368/can-you-use-css-to-mirror-flip-text){:target="\_blank"}
+	* [Bidi override](https://stackoverflow.com/questions/22642416/css-reverse-a-whole-website-mirror-effect-excluding-tetand-images){:target="\_blank"}
+
+Flip Icon button svg links
+* [https://www.flaticon.com/free-icon/flip_734592](https://www.flaticon.com/free-icon/flip_734592){:target="\_blank"}
+* [https://www.flaticon.com/free-icon/mirror_3018310#](https://www.flaticon.com/free-icon/mirror_3018310#){:target="\_blank"}
+* [https://www.flaticon.com/free-icon/flip_4047775](https://www.flaticon.com/free-icon/flip_4047775){:target="\_blank"}
+* [https://www.flaticon.com/free-icon/mirror-image_5951864](https://www.flaticon.com/free-icon/mirror-image_5951864){:target="\_blank"}
+* [https://www.flaticon.com/free-icon/specular-reflection_3247998?related_id=3247998&origin=search](https://www.flaticon.com/free-icon/specular-reflection_3247998?related_id=3247998&origin=search){:target="\_blank"}
+* [https://www.flaticon.com/free-icon/reflect_8198413](https://www.flaticon.com/free-icon/reflect_8198413){:target="\_blank"}
+* [https://www.flaticon.com/free-icon/flip_4818450](https://www.flaticon.com/free-icon/flip_4818450){:target="\_blank"}
+
 ### Extra miscellaneous stuff
 
 - [Adding markdown to linguist repo stats](https://joshuatz.com/posts/2019/how-to-get-github-to-recognize-a-pure-markdown-repo/){: target="\_blank"}
