@@ -50,12 +50,12 @@ width: calc(50% - 355px);
 top: 3em;
 }
 
-details > summary {
+div.cnote > details > summary {
 font-size: 16px;
 transition: font-size .3s;
 }
 
-details[open] > summary {
+div.cnote > details[open] > summary {
 font-size: 2em;
 font-weight: bold;
 }
@@ -69,4 +69,23 @@ padding: 0.5em 10px;
 }
 div.note-block strong{
 color: #e74c3c;
+}
+
+.button {
+background: var(--foreground);
+color: var(--background);
+border-radius: 5px;
+cursor: pointer;
+display: inline-block;
+text-align: center;
+}
+
+summary.button {
+padding: 5px 1em 5px 1em;
+}
+summary.button > p {
+margin: 0;
+}
+summary.button + p {
+margin-left: 2em;
 }
