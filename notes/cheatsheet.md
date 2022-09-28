@@ -19,3 +19,7 @@ eric chapdelaine's notes where he uses matrices (LAG notes)
 [https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits](https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits){:target="_blank"}
 
 [Mathfonts](https://www.overleaf.com/learn/latex/Mathematical_fonts){:target="_blank"}
+
+[PDF with bunch of math symbols](https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf){:target="\_blank"}
+
+Eventually I will compile this page into a local cheatsheet and not just a page with links referring to pages on how to do things
