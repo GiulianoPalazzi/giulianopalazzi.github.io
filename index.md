@@ -15,8 +15,10 @@ interests that I can write about and also serving as a vault where I can store
 any good sources of knowledge or good ideas I have *every now and then.*\\
 **Now lets sit back enjoy and eat some [juicy gullasch](https://www.google.com/search?gs_ssp=eJzj4tTP1TcwzDI3LTJgdGDw4kgvzclJLE7OAABHzAae&q=gullasch&oq=gullasch&aqs=chrome.1.0i355i512j46i512j0i512l2j46i512j0i10i512l3.4758j1j7&sourceid=chrome&ie=UTF-8){:style="color: hotpink; text-decoration: none"}**.
 
+## Useful link for personal use ##
+
 Link to the source code [github](https://github.com/GiulianoPalazzi/giulianopalazzi.github.io) repo of this site\\
-Link to the source code of the undergrad student's jekyll/katex <a href="https://github.com/eric-chapdelaine/eric-chapdelaine.github.io" target="_blank">github</a> repo site\\
+Link to the source code of the undergrad student's jekyll/katex [github](https://github.com/eric-chapdelaine/eric-chapdelaine.github.io){:target="_blank"} repo site. [Link to the site](https://ericchapdelaine.com/){:target="_blank"}\\
 They are here for the beginning phase of my website were I compare and try to achieve a similar setup but taylored to what I want
 
 Link to a copy of eric chapelalelala's note [here](/notes/math1341) to see if KaTeK and the javascript for minimising work\\
@@ -24,7 +26,9 @@ Link to a copy of chemistry note [here](/uni/chem/the_atom) to see if KaTeK and 
 Link to my test notes to test out the snippets [here](/notes/testnote)\\
 My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
 
-Write your thoughts down. They won't disappear if they are written down!
+---
+
+**Write your thoughts down. They won't disappear if they are written down!**
 
 ## Todo of this site
 
@@ -56,11 +60,12 @@ Write your thoughts down. They won't disappear if they are written down!
 * Create coyote 404 page
 * style links
 * style toc and their links
-* pull up logger
+* pull ups logger
 * change close all and open all buttons in notes pages to a single toggle button
 * migrate local todo/to learn to here
 * build flip text direction
 * add Tex roman numeral to documents
+* Uni passed exams and average sections
 
 </div>
 <div class="bach" style="margin-top: -12px; margin-left: 8px; margin-right: 4px;">
