@@ -94,6 +94,8 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 	* [A github repo of someone who forked it](https://github.com/riosil/RotaryCellphone){:target="_blank"}
 * [Make magazine](https://makezine.com/){:target="_blank"}
 
+### Math ###
+* [MacTutor](https://mathshistory.st-andrews.ac.uk/Miller/mathsym/){:target="_blank"} - has a bunch of mathematician stamps and stuff about the history of math language and notation
 ### Computer Science Resources
 
 - <a href="https://rosikand.github.io/notes/" target="_blank">rosikand blog with CS notes</a>
