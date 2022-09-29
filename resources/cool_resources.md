@@ -78,6 +78,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 - <a href="http://xahlee.org/" target="_blank">Xah Lee's personal website</a> He has a shit tonne of stuff, as he said the website is his life's work (I have stolen some css from his sites). Strong stuff to highlight: Programming section (has self learning material for a lot of language and has a good tutorial on emacs which he used to sell but it is free now, same as his javascript course) and Keyboard section
 - <a href="https://fravia.net/" target="_blank">Fravia's website (Learn How to search)</a>
   - Who was [Fravia](https://wikimili.com/en/Fravia){:target="\_blank"}
+  - [Fravia Youtube talk](https://www.youtube.com/watch?v=CKMk73gl9j8&t=5s&ab_channel=HackersOnBoard){:target="\_blank"}
   - [Reddit post](https://www.reddit.com/r/InternetIsBeautiful/comments/qoz9vg/you_found_the_place_that_will_teach_you_how_to/){:target="\_blank"} about Fravia's site
   - [Google advanced search operators](https://www.youtube.com/watch?v=VHCzU6sJagw&ab_channel=RankYa){:target="\_blank"} Youtube video. Explain stuff like the Filetype: search
   - [https://fravia.net/machine_translation.htm](https://fravia.net/machine_translation.htm){:target="\_blank"}
