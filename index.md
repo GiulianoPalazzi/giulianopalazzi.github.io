@@ -21,8 +21,7 @@ Link to the source code [github](https://github.com/GiulianoPalazzi/giulianopala
 Link to the source code of the undergrad student's jekyll/katex [github](https://github.com/eric-chapdelaine/eric-chapdelaine.github.io){:target="_blank"} repo site. [Link to the site](https://ericchapdelaine.com/){:target="_blank"}\\
 They are here for the beginning phase of my website were I compare and try to achieve a similar setup but taylored to what I want
 
-Link to a copy of eric chapelalelala's note [here](/notes/math1341) to see if KaTeK and the javascript for minimising work\\
-Link to a copy of chemistry note [here](/uni/chem/the_atom) to see if KaTeK and the javascript for minimising work\\
+Link to a local copy of eric chapelalelala's notes [here](/notes/math1341) to see if KaTeK and the javascript for minimising and styling works on my site\\
 My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
 
 ---
