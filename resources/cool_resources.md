@@ -95,6 +95,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 	* [A github repo of someone who forked it](https://github.com/riosil/RotaryCellphone){:target="_blank"}
 * [Make magazine](https://makezine.com/){:target="_blank"}
 * [Dexter Chua's personal site](https://dec41.user.srcf.net/){:target="\_blank"} - He is a Physics PhD student at Harvard, and did undergrad at Cambridge. He has a bunch of notes typed up in $\LaTeX$ typed up on his site. Recommended addition by Ahmed Kallushi
+	* [Stylesheet](https://dec41.user.srcf.net/h/style.css){:target="\_blank"} used by Dexter Chua to make his website look like a latex document in the browser
 
 ### Mathematics ###
 
