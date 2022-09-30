@@ -46,3 +46,24 @@ If in every closed and bounded interval it has **at most** a finite number of si
 </div>
 
 $\mathfrak{F} \to \mathscr{G}$
+
+Written on 30th of sep
+## Chapter 1 overview ##
+
+1. Definitions and examples
+1. Theorems
+
+## Theorems ##
+
+<div class="note-block">
+<strong>Theorem:</strong>
+
+Initial Value theorem
+$$
+x \in \mathcal{L}(0, +\infty) \implies \lim\limits_{t \to 0^{+}}X(t) = \lim\limits_{s \to +\infty}s X(s)  $$
+
+Final Value Theorem
+$$
+x \in \mathcal{L}(0, +\infty) \implies \lim\limits_{t \to 0^{+}}X(t) = \lim\limits_{s \to +\infty}s X(s)  $$
+</div>
+
