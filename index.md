@@ -8,7 +8,7 @@ perm link: "/"
 # Don't Panic!! #
 And don't forget your towel
 
-Alexander the Great had Aristotle as his tutor, Cosimo II de' Medici had Galileo Galilei as his tutor, I have The Internet and many centuries of knowlegde as my tutor.
+Alexander the Great had Aristotle as his tutor, Cosimo $\textrm{II}$ de' Medici had Galileo Galilei as his tutor, I have The Internet and many centuries of knowlegde as my tutor.
 
 This will become my sort of notes and blog website encompassing all of my
 interests that I can write about and also serving as a vault where I can store

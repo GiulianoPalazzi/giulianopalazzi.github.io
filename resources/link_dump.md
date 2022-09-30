@@ -9,7 +9,7 @@ backlinktitle: Cool Resouces Page
 
 ![garbage chute/trash compactor](/assets/images/Trash.webp){:style="margin: 0 auto 0 0;width: 90%;"}
 
-Where links I don't have time to sort end up. Like Han, Luke, Leia and Chewie in A New Hope(IV)
+Where links I don't have time to sort end up. Like Han, Luke, Leia and Chewie in A New Hope($\textrm{IV}$)
 
 ---
 
