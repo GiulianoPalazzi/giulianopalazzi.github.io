@@ -95,9 +95,13 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 	* [A github repo of someone who forked it](https://github.com/riosil/RotaryCellphone){:target="_blank"}
 * [Make magazine](https://makezine.com/){:target="_blank"}
 
-### Math ###
+### Mathematics ###
 
 * [MacTutor](https://mathshistory.st-andrews.ac.uk/Miller/mathsym/){:target="_blank"} * has a bunch of mathematician stamps and stuff about the history of math language and notation
+
+### Physics ###
+
+* [Arxiv](https://arxiv.org/){:target="\_blank"} - a website where people post papers before publishing them.
 
 ### Computer Science Resources ###
 
