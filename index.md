@@ -23,7 +23,6 @@ They are here for the beginning phase of my website were I compare and try to ac
 
 Link to a copy of eric chapelalelala's note [here](/notes/math1341) to see if KaTeK and the javascript for minimising work\\
 Link to a copy of chemistry note [here](/uni/chem/the_atom) to see if KaTeK and the javascript for minimising work\\
-Link to my test notes to test out the snippets [here](/notes/testnote)\\
 My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
 
 ---
