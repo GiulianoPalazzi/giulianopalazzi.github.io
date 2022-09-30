@@ -10,7 +10,7 @@ backlinktitle: Mathematical Analisys Main Page
 * Laplace transform (10 hours)
 
 * Differentiating functions of several variables (20 hours)
-	* Review on vectors and elements of topology of R^n.
+	* Review on vectors and elements of topology of $\mathbb{R}^n$.
 	* Functions of several variables, vector fields.
 	* Limits and continuity.
 	* Partial and directional derivatives, Jacobian matrix.

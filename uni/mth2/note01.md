@@ -41,8 +41,8 @@ $$
 x: \mathbb{R} \mapsto \mathbb{R}$$ is piecewise **Continuous**\\
 If in every closed and bounded interval it has **at most** a finite number of singularities of the following kinds:
 
-* $1^{\text{ST}}$ Kind (Jump)\\
-* $3^{\text{RD}}$ Kind (Removable)
+* $1^{\text{st}}$ Kind (Jump)
+* $3^{\text{rd}}$ Kind (Removable)
 </div>
 
 $\mathfrak{F} \to \mathscr{G}$
