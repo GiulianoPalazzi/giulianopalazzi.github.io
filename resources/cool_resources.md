@@ -65,8 +65,8 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 
 ### On note taking
 
-* <a href="https://castel.dev/post/lecture-notes-1/" target="_blank">Latex/vim PhD student</a>
-* <a href="https://ericchapdelaine.com/articles/how-i-take-notes" target="_blank">Latex HTML american undergrad student</a>
+* [$\LaTeX$/vim PhD student](https://castel.dev/post/lecture-notes-1/){:target="\_blank"}
+* [$\LaTeX$ HTML american undergrad student](https://ericchapdelaine.com/articles/how-i-take-notes){:target="\_blank"}
 * [Niklas Luhmann's two essays](https://luhmann.surge.sh/){:target="\_blank"} He is the guy who invented the zettlekasten (slip papers/boxes) method for taking and organizing notes. (The website also has a really clean css file)
 * [Math support in markdown - github blogpost](https://github.blog/2022-05-19-math-support-in-markdown/){:target="\_blank"}
 * [RwxRob Knowledge Net (KN)](https://gitlab.com/rwx.gg/kn/README){:target="\_blank"}
@@ -94,6 +94,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 	* [Root dir with all files](http://www.justine-haupt.com/rotarycellphoneinfo/designfiles/){:target="_blank"}
 	* [A github repo of someone who forked it](https://github.com/riosil/RotaryCellphone){:target="_blank"}
 * [Make magazine](https://makezine.com/){:target="_blank"}
+* [Dexter Chua's personal site](https://dec41.user.srcf.net/){:target="\_blank"} - He is a Physics PhD student at Harvard, and did undergrad at Cambridge. He has a bunch of notes typed up in $\LaTeX$ typed up on his site. Recommended addition by Ahmed Kallushi
 
 ### Mathematics ###
 
