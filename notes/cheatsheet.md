@@ -21,5 +21,6 @@ eric chapdelaine's notes where he uses matrices (LAG notes)
 [Mathfonts](https://www.overleaf.com/learn/latex/Mathematical_fonts){:target="_blank"}
 
 [PDF with bunch of math symbols](https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf){:target="\_blank"}
+[Arrow symbols in latex](https://garsia.math.yorku.ca/MPWP/LATEXmath/node9.html){:target="\_blank"} - Seems to have a nice layout to copy for my personal cheatsheet later on
 
 Eventually I will compile this page into a local cheatsheet and not just a page with links referring to pages on how to do things
