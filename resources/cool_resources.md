@@ -118,6 +118,8 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 	* [Neil Gershenfeld](https://www.google.com/search?q=neil+gershenfeld&oq=Neil+Gershenfeld&aqs=chrome.0.0i355i512j46i512j0i512l2j0i22i30l3j69i60.1314j0j7&sourceid=chrome&ie=UTF-8){:target="_blank"}
 	* [Wikipedia](https://en.wikipedia.org/wiki/Neil_Gershenfeld){:target="_blank"}
 * [Nand2Tetris](https://www.nand2tetris.org/ ){:target="_blank"} * Awesome computer science course starting from the fundamentals
+* The legendary [Don Knuth's](https://www-cs-faculty.stanford.edu/~knuth/index.html){:target="\_blank"} personal website
+	* It suffices to say that this guy created $\TeX$ but, [here](https://en.wikipedia.org/wiki/Donald_Knuth){:target="\_blank"} is his wiki if you are curious.
 	
 
 ### Vim
