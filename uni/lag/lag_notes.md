@@ -76,9 +76,9 @@ $$
 \begin{align*}
 \therefore \text{sign matrix}
 &= \begin{bmatrix} + & - & +\\\ - & + & -\\\ + & - & + \end{bmatrix}\\
-\text{or} 
+\text{or}
 &= \begin{bmatrix} 1 & -1 & 1\\\ -1 & 1 & -1\\\ 1 & -1 & 1 \end{bmatrix}\\
-\end{align*}$IV$
+\end{align*}
 $$
 
 1. Lastly multiply by the reciprocal of the determinant\\
