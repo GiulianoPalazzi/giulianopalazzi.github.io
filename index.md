@@ -15,6 +15,11 @@ interests that I can write about and also serving as a vault where I can store
 any good sources of knowledge or good ideas I have *every now and then.*\\
 **Now lets sit back enjoy and eat some [juicy gullasch](https://www.google.com/search?gs_ssp=eJzj4tTP1TcwzDI3LTJgdGDw4kgvzclJLE7OAABHzAae&q=gullasch&oq=gullasch&aqs=chrome.1.0i355i512j46i512j0i512l2j46i512j0i10i512l3.4758j1j7&sourceid=chrome&ie=UTF-8){:style="color: hotpink; text-decoration: none"}**.
 
+<button id="generate">Generate Hyperlink</button>
+<div class="container">
+<a href="javascript:history.go(-1)">Go back 1 pages</a>
+</div>
+
 ## Useful link for personal use ##
 
 Link to the source code [github](https://github.com/GiulianoPalazzi/giulianopalazzi.github.io) repo of this site\\
