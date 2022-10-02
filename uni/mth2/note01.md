@@ -60,10 +60,25 @@ Written on 30th of sep
 
 Initial Value theorem
 $$
-x \in \mathcal{L}(0, +\infty) \implies \lim\limits_{t \to 0^{+}}X(t) = \lim\limits_{s \to +\infty}s X(s)  $$
+x \in \mathscr{L}(0, +\infty) \implies \lim\limits_{t \to 0^{+}}X(t) = \lim\limits_{s \to +\infty}s X(s)  $$
 
 Final Value Theorem
 $$
-x \in \mathcal{L}(0, +\infty) \implies \lim\limits_{t \to 0^{+}}X(t) = \lim\limits_{s \to +\infty}s X(s)  $$
+x \in \mathscr{L}(0, +\infty) \implies \lim\limits_{t \to 0^{+}}X(t) = \lim\limits_{s \to +\infty}s X(s)  $$
 </div>
 
+## Chapter 2 ##
+
+2.1 Vectors
+2.2 Curves
+2.3 Scalar functions in n variables
+
+In analysis I $f:D \subset \mathbb{R} \mapsto \mathbb{R}$ Funcitions\\
+In analysis II $f: A \subset \mathbb{R}^n \mapsto \mathbb{R}^m$ functions\\
+$where n \ge  1 m \ge 1$ \\
+\\
+If n = m = 1 real valued functions with real variables (AN. 1)\\
+If n = 1 & m>1 Curve in $\mathbb{R}^m$ $scalar \mapsto vector $\\
+If n > 1 & m = 1 Scalar funcitions $vector \mapsto scalar$ \\
+If n > 1 & m > 1 Vector valued functions vector $\mapsto$ vector\\
+    If n = m vector fields
