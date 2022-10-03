@@ -99,3 +99,23 @@ Where links I don't have time to sort end up. Like Han, Luke, Leia and Chewie in
 * [https://www.youtube.com/watch?v=qnQSL9DBPaE&ab_channel=media.ccc.de](https://www.youtube.com/watch?v=qnQSL9DBPaE&ab_channel=media.ccc.de){: target=_blank}
 
 ---
+
+## Art ##
+
+* [https://wodka.over-blog.com/2017/01/l-orient-des-peintres-2.html](https://wodka.over-blog.com/2017/01/l-orient-des-peintres-2.html){: target=_blank}
+* [https://wodka.over-blog.com/2017/01/l-orient-des-peintres.html](https://wodka.over-blog.com/2017/01/l-orient-des-peintres.html){: target=_blank}
+* [https://wodka.over-blog.com/2014/04/julio-cortazar-le-bestiaire-d-aloys-zotl-1831-1887.html](https://wodka.over-blog.com/2014/04/julio-cortazar-le-bestiaire-d-aloys-zotl-1831-1887.html){: target=_blank}
+* [https://wodka.over-blog.com/article-michel-makarius-ruines-94070797.html](https://wodka.over-blog.com/article-michel-makarius-ruines-94070797.html){: target=_blank}
+* [https://wodka.over-blog.com/article-a-table-73048880.html](https://wodka.over-blog.com/article-a-table-73048880.html){: target=_blank}
+* [https://wodka.over-blog.com/2019/06/fumeurs-en-peinture.html](https://wodka.over-blog.com/2019/06/fumeurs-en-peinture.html){: target=_blank}
+* [https://wodka.over-blog.com/2018/10/autour-du-salon-de-nantes-en-1886.html](https://wodka.over-blog.com/2018/10/autour-du-salon-de-nantes-en-1886.html){: target=_blank}
+* [https://wodka.over-blog.com/2018/03/persee-et-andromede.html](https://wodka.over-blog.com/2018/03/persee-et-andromede.html){: target=_blank}
+* [https://wodka.over-blog.com/2018/01/le-peintre-et-l-oiseau.html](https://wodka.over-blog.com/2018/01/le-peintre-et-l-oiseau.html){: target=_blank}
+* [https://wodka.over-blog.com/2017/11/autour-de-la-fete.html](https://wodka.over-blog.com/2017/11/autour-de-la-fete.html){: target=_blank}
+* [https://wodka.over-blog.com/2017/01/l-orient-des-peintres-4.html](https://wodka.over-blog.com/2017/01/l-orient-des-peintres-4.html){: target=_blank}
+* [https://wodka.over-blog.com/2017/01/l-orient-des-peintres-3.html](https://wodka.over-blog.com/2017/01/l-orient-des-peintres-3.html){: target=_blank}
+* [https://wodka.over-blog.com/2017/01/l-orient-des-peintres-5.html](https://wodka.over-blog.com/2017/01/l-orient-des-peintres-5.html){: target=_blank}
+* [https://wodka.over-blog.com/tag/litterature%20italienne/1](https://wodka.over-blog.com/tag/litterature%20italienne/1){: target=_blank}
+* [https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71kI9q-zaSL._AC_SL1200_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.ca%2FFlorencio-Molina-Paper-Famous-Paintings-Poster-Reproduction%2Fdp%2FB07XNW6RJJ&tbnid=1mAfxA6MIWznRM&vet=12ahUKEwiMqpnlosD6AhUMyqQKHSyhAk8QMyhBegQIARBw..i&docid=t4hsNiiknvhs4M&w=1200&h=838&itg=1&q=molina%20campos&ved=2ahUKEwiMqpnlosD6AhUMyqQKHSyhAk8QMyhBegQIARBw#imgrc=1mAfxA6MIWznRM&imgdii=L-bbIKdVoSHzsM](https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71kI9q-zaSL._AC_SL1200_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.ca%2FFlorencio-Molina-Paper-Famous-Paintings-Poster-Reproduction%2Fdp%2FB07XNW6RJJ&tbnid=1mAfxA6MIWznRM&vet=12ahUKEwiMqpnlosD6AhUMyqQKHSyhAk8QMyhBegQIARBw..i&docid=t4hsNiiknvhs4M&w=1200&h=838&itg=1&q=molina%20campos&ved=2ahUKEwiMqpnlosD6AhUMyqQKHSyhAk8QMyhBegQIARBw#imgrc=1mAfxA6MIWznRM&imgdii=L-bbIKdVoSHzsM){: target=_blank}
+* [https://www.google.com/search?q=bruno+pontiroli&&tbm=isch&ved=2ahUKEwjn3P7uo8D6AhXhxrsIHWKnAY0Q2-cCegQIABAA&oq=bruno+pontiroli&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYUABYAGC2AmgAcAB4AIABTYgBTZIBATGYAQCqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=GNo4Y-fwG-GN7_UP4s6G6Ag&bih=965&biw=1920](https://www.google.com/search?q=bruno+pontiroli&&tbm=isch&ved=2ahUKEwjn3P7uo8D6AhXhxrsIHWKnAY0Q2-cCegQIABAA&oq=bruno+pontiroli&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYUABYAGC2AmgAcAB4AIABTYgBTZIBATGYAQCqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=GNo4Y-fwG-GN7_UP4s6G6Ag&bih=965&biw=1920){: target=_blank}
+* [https://www.google.com/search?q=bruno+pontiroli&&tbm=isch&ved=2ahUKEwjn3P7uo8D6AhXhxrsIHWKnAY0Q2-cCegQIABAA&oq=bruno+pontiroli&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYUABYAGC2AmgAcAB4AIABTYgBTZIBATGYAQCqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=GNo4Y-fwG-GN7_UP4s6G6Ag&bih=965&biw=1920](https://www.google.com/search?q=bruno+pontiroli&&tbm=isch&ved=2ahUKEwjn3P7uo8D6AhXhxrsIHWKnAY0Q2-cCegQIABAA&oq=bruno+pontiroli&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYUABYAGC2AmgAcAB4AIABTYgBTZIBATGYAQCqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=GNo4Y-fwG-GN7_UP4s6G6Ag&bih=965&biw=1920){: target=_blank}
