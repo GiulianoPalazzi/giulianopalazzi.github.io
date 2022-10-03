@@ -8,9 +8,13 @@ backlinktitle: Circuit Theory Main Page
 
 All the current entering a node is equal to the current exiting the node
 
+Where n is the number of nodes. You can write n - 1 independent KCL equations
+
 # Kirchhoff Voltage Law (KVL) #
 
 The Voltages in any closed loop of a circuit is equal to zero
+
+Where n is the number of nodes and b is the number of branches (components). You can write b - n + 1 independent KVL equations
 
 # Power #
 
@@ -89,3 +93,19 @@ circuit
 # Ohm's Law #
 
 $v(t) = Ri(t)$ : where R is the resistance of the component
+
+---
+
+# Second lecture (Lecture 4 in reality) #
+
+For sources the passive sign convention should be used only when attempting to calculate the power consumed by the source.\\
+
+## Single-loop circuit without current sources ##
+
+$$I = \sum_{i} \dfrac{v_i}{R_i}$$
+
+## Single node-pair cirucit ##
+
+$$V = \dfrac{\sum(\text{Current sources *pushing* in the direction of }+V)}{\sum(\text{Conductances})}$$
+
+Conductance $= 1/R_k$
