@@ -120,7 +120,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * [Nand2Tetris](https://www.nand2tetris.org/ ){:target="_blank"} * Awesome computer science course starting from the fundamentals
 * The legendary [Don Knuth's](https://www-cs-faculty.stanford.edu/~knuth/index.html){:target="\_blank"} personal website
 	* It suffices to say that this guy created $\TeX$ but, [here](https://en.wikipedia.org/wiki/Donald_Knuth){:target="\_blank"} is his wiki if you are curious.
-	
+* [https://dzackgarza.com/writing/](https://dzackgarza.com/writing/){:target="\_blank"}
 
 ### Vim
 
