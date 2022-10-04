@@ -36,3 +36,4 @@ With resistors in series the current is a ratio of the resistances over the tota
 # Current division rule #
 
 With resistors in series the current is a ratio of the resistances over the total resistance for the individual resistance
+
