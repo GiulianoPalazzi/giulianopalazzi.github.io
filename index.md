@@ -54,6 +54,10 @@ My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
 * personal hall of fame
 * what I want to learn section
 * language learning section
+* Add search
+	* Add local subject search
+	* Add uni wide search
+	* Add later on to other sections of the site search
 
 ### Small features
 * File and Code line counter of this site on the main page
