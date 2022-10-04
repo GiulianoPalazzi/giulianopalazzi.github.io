@@ -79,6 +79,7 @@ Array.from(javascript.links)
   - [https://github.com/MichaelCurrin/mdbook-quickstart](https://github.com/MichaelCurrin/mdbook-quickstart){:target="\_blank"}
 - Look for some nice Jekyll theme on their [page](http://jekyllthemes.org/page9/){:target="\_blank"}
 - Checkout CSS that looks like github markdown [here](https://github.com/sindresorhus/github-markdown-css){:target="\_blank"}
+- Checkout [Microsoft web-dev for beginners](https://github.com/microsoft/Web-Dev-For-Beginners){:target="\_blank"} course
 
 ---
 
