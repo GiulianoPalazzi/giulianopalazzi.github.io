@@ -35,7 +35,8 @@ to zero at all times
 <div class="note-block">
 <strong>DEFINITION:</strong>
 
-$\sum\limits_{all elements} p_k = \sum\limits_{all elements} v_k i_k = 0$
+$$\sum_{\text{all elements}} p_k = \sum_{\text{all elements}} v_k i_k = 0$$
+
 </div>
 
 ---
