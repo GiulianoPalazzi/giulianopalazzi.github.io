@@ -133,6 +133,11 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * [Elijah Manor's blog](https://elijahmanor.com/blog/neovim-tmux){:target="\_blank"} has a bunch of Vim resources at the end of the blog post
 * Ctrl-k to insert special characters (accents and diacritics) [Luke Smith video](https://www.youtube.com/watch?v=WPvvOEiiF28&ab_channel=LukeSmith){:target="\_blank"} which briefly mentions it
 * [Vimhelp website](https://vimhelp.org/intro.txt.html#internet){:target="\_blank"}
+* [Neovim, Latex & Zathura](https://www.preciouschicken.com/blog/posts/neovim-latex-zathura-in-perfect-harmony/){:target="\_blank"}
+* [Real-time $\LaTeX$ using (Neo)Vim, VimTex, and snippets](https://www.ejmastnak.com/tutorials/vim-latex/intro.html){:target="\_blank"}
+	* [Original reddit post](https://www.reddit.com/r/LaTeX/comments/tr9z8y/tutorial_series_realtime_latex_lecture_notes/){:target="\_blank"}
+
+
 
 #### Plugins
 
