@@ -58,6 +58,7 @@ My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
 	* Add local subject search
 	* Add uni wide search
 	* Add later on to other sections of the site search
+* Make new note function
 
 ### Small features
 * File and Code line counter of this site on the main page
