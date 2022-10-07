@@ -20,7 +20,7 @@ any good sources of knowledge or good ideas I have *every now and then.*\\
 <a href="javascript:history.go(-1)">Go back 1 pages</a>
 </div>
 
-## Useful link for personal use ##
+## Useful links for personal use ##
 
 Link to the source code [github](https://github.com/GiulianoPalazzi/giulianopalazzi.github.io) repo of this site\\
 Link to the source code of the undergrad student's jekyll/katex [github](https://github.com/eric-chapdelaine/eric-chapdelaine.github.io){:target="_blank"} repo site. [Link to the site](https://ericchapdelaine.com/){:target="_blank"}\\
