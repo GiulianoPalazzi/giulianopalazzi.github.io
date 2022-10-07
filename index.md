@@ -33,7 +33,7 @@ My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
 
 **Write your thoughts down. They won't disappear if they are written down!**
 
-## Todo of this site
+## Todo list of this site
 
 ### Big things
 * Zettlekasten notes database
