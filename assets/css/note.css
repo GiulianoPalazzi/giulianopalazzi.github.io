@@ -44,10 +44,10 @@ margin-top: 0;
 
 .toc {
 position: fixed;
+top: 3em;
 right: 0;
 height: 90%;
 width: calc(50% - 355px);
-top: 3em;
 }
 
 div.cnote > details > summary {

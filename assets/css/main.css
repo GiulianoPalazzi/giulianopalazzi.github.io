@@ -7,8 +7,11 @@ html {
 body {
   font-family: Arial, Arimo, "Liberation Sans", "Segoe UI Emoji",
     "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+}
+
+main {
   margin-top: 41px;
-  margin-bottom: 50px;
+  margin-bottom: 0;
 }
 
 .left_panel {
@@ -69,7 +72,8 @@ body {
       color: white;
     }
   footer {
-    margin-left: 215px;
+    /*margin-left: 215px;*/
+    margin-bottom: 50px;
   }
   .left_panel {
     position: absolute;

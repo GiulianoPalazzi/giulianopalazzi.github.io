@@ -74,6 +74,7 @@ My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
 * build flip text direction
 * add Tex roman numeral to documents
 * Uni passed exams and average sections
+* Fix footer glitch overlapping with toc
 
 </div>
 <div class="bach" style="margin-top: -12px; margin-left: 8px; margin-right: 4px;">
