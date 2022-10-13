@@ -18,7 +18,14 @@ margin: 8px 0 8px 0;
 display: block;
 border-width: 1px;
 }
-.segment {
+
+main {
+display: flex;
+flex-direction: row-reverse;
+justify-content: space-between;
+}
+
+.main-note {
 position: relative;
 width: 725px;
 }
@@ -43,11 +50,11 @@ margin-top: 0;
 }
 
 .toc {
-position: fixed;
+position: sticky;
 top: 3em;
 right: 0;
-height: 90%;
-width: calc(50% - 355px);
+height: 80vh;
+width: calc(50vw - 355px);
 }
 
 div.cnote > details > summary {
@@ -78,6 +85,10 @@ border-radius: 5px;
 cursor: pointer;
 display: inline-block;
 text-align: center;
+}
+
+.toc > .button {
+margin-bottom: 5px;
 }
 
 summary.button {

@@ -1,12 +1,14 @@
 <head>
   <meta charset="utf-8" />
   {% if page.head == nil %}
-  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="stylesheet" href="/assets/css/main.css"/>
   {% else %} {{ page.head }} {% endif %}
-  <link rel="icon" href="/assets/icons/VenusFace.ico" type="image/x-icon" />
-  <link rel="stylesheet" href="/assets/css/darkmode.css" />
-  <link rel="stylesheet" href="/assets/css/note.css" />
-  <link rel="stylesheet" href="/assets/css/flip.css" />
+  {% if layout.head != nil %}
+  <link rel="stylesheet" href="/assets/css/note.css"/>
+  {% else %} {{ layout.head }} {% endif %}
+  <link rel="icon" href="/assets/icons/VenusFace.ico" type="image/x-icon"/>
+  <link rel="stylesheet" href="/assets/css/darkmode.css"/>
+  <link rel="stylesheet" href="/assets/css/flip.css"/>
   <title>
     {% if page.title %} {{ page.title }} | {% endif %} Giuliano Palazzi
   </title>
