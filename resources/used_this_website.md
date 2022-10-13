@@ -56,6 +56,7 @@ Flip Icon button svg links
 
 ## To consider adding:
 
+- includes based on directories like a sidebar for example
 - The following code snippet allows for all the links that lead to a site that isn't my local site to have `target="_blank"` as default.
   I found it in [this](https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank-in-markdown){:target="\_blank"} stack overflow thread
 
