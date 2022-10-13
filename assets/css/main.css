@@ -146,3 +146,12 @@ width: 80%;
 .bach:hover > p > em {
 font-size: 5vw;
 }
+
+.button {
+background: var(--foreground);
+color: var(--background);
+border-radius: 5px;
+cursor: pointer;
+display: inline-block;
+text-align: center;
+}

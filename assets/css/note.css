@@ -78,15 +78,6 @@ div.note-block strong{
 color: #e74c3c;
 }
 
-.button {
-background: var(--foreground);
-color: var(--background);
-border-radius: 5px;
-cursor: pointer;
-display: inline-block;
-text-align: center;
-}
-
 .toc > .button {
 margin-bottom: 5px;
 }
