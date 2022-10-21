@@ -63,6 +63,10 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 
 * <a href='https://archive.org/search.php?query=creator%3A"Annum+Integrum"' target="_blank">Annum Integrum</a> Cool guy who posts a lot of New Age and vaporwave music (only annoying this is that it's on archive.com so petty to sort and filter)
 
+### Internet wisdom ###
+
+* [Poetry aplenty](https://en.wikipedia.org/wiki/Rhyming_slang){:target="\_blank"}
+
 ### On note taking
 
 * [$\LaTeX$/vim PhD student](https://castel.dev/post/lecture-notes-1/){:target="\_blank"}
@@ -71,7 +75,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * [Math support in markdown - github blogpost](https://github.blog/2022-05-19-math-support-in-markdown/){:target="\_blank"}
 * [RwxRob Knowledge Net (KN)](https://gitlab.com/rwx.gg/kn/README){:target="\_blank"}
 
-### Other websites worth losing time in
+### Other websites worth losing time on
 
 * <a href="https://archive.org/" target="_blank">The Archive</a> Cornucopia of the internet, and most beautiful of nymphs for the eyes of a procastinator
 * <a href="https://lukesmith.xyz/" target="_blank">Luke Smith's personal website</a> personification of redpilled, equisde
@@ -136,8 +140,6 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * [Neovim, Latex & Zathura](https://www.preciouschicken.com/blog/posts/neovim-latex-zathura-in-perfect-harmony/){:target="\_blank"}
 * [Real-time $\LaTeX$ using (Neo)Vim, VimTex, and snippets](https://www.ejmastnak.com/tutorials/vim-latex/intro.html){:target="\_blank"}
 	* [Original reddit post](https://www.reddit.com/r/LaTeX/comments/tr9z8y/tutorial_series_realtime_latex_lecture_notes/){:target="\_blank"}
-
-
 
 #### Plugins
 

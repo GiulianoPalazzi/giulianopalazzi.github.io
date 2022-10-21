@@ -112,4 +112,5 @@ Array.from(javascript.links)
 1. Fix blog posts theme
 1. Scollbar on toc if it is long
    1. Style scrollbar
-* Redesign home landing page (include mr. Johann Sebastian in it somehow)
+
+1. Redesign home landing page (include mr. Johann Sebastian in it somehow)
