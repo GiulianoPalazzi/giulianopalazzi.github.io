@@ -41,6 +41,7 @@ Flip Icon button svg links
 - [Advanced Jekyll article](https://dexp.in/articles/advanced-jekyll/)
 - [Regex editor and viewer](https://regex101.com/r/8VJpSQ/1){:target="\_blank"} - I used this to get some of the regex that allows the collapsible notes sections
 - Codepen for [Growing text](https://codepen.io/Itsca/pen/kYYdor){:target="\_blank"}.
+* [Stack overflow post](https://stackoverflow.com/questions/1817792/is-there-a-previous-sibling-selector){:target="\_blank"} addressing how to select a previous element in css. (I used the solution posed by the third topmost answer, which at the time had 248 upvotes)
 
 ---
 
@@ -89,23 +90,46 @@ Array.from(javascript.links)
 
 ### Big things
 
-- Zettlekasten notes database
-- Start blogging
-- Projects area when I eventually start making them
-  - This will then lead me to make a CV/resume page
-- Checkout "To consider adding" section and see if anything can be integrated
-  - Integrate search
-  - Get some nicer css
+* Zettlekasten notes database
+* Start blogging
+* Projects area when I eventually start making them
+	* This will then lead me to make a CV/resume page
+* Checkout "To consider adding" section and see if anything can be integrated
+	* Integrate search
+	* Get some nicer css
+* **Make a better footer**
+* Horizontal timeline blog home page
+* study hour logger
+* Make website searchable and navigable with a graph (Knowledge system, kinda like Obsidian)
+* Add audio blog with transcribed audio too (to make the audio searchable)
+* make notes a jekyll object like \_posts so that they can have a timeline home page, and so I can just dump notes into it
+	* add some spaced repetition thing to them, like anki
+	* add some database to them
+* personal hall of fame
+* what I want to learn section
+* language learning section
+* Add search
+	* Add local subject search
+	* Add uni wide search
+	* Add later on to other sections of the site search
+* Make new note function
 
 ### Small features
 
-- File and Code line counter of this site on the main page
-- Dynamic autoscrolling toc
-- Copy how XahLee displays codeblocks
-  - Add code highlighting
-- Create coyote 404 page
-- style links
-- style toc and their links
+* File and Code line counter of this site on the main page
+* Dynamic autoscrolling toc
+* Copy how XahLee displays codeblocks
+	* Add code highlighting
+* Create coyote 404 page
+* style links
+* style toc and their links
+* pull ups logger
+* change close all and open all buttons in notes pages to a single toggle button
+* migrate local todo/to learn to here
+* build flip text direction
+* add Tex roman numeral to documents
+* Uni passed exams and average sections
+* Fix footer glitch overlapping with toc
 
 ## Thing completed from the above list
 

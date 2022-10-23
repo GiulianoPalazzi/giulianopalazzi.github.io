@@ -90,10 +90,10 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 * <a href="https://blog.codinghorror.com/" target="_blank">Jeff Atwood's personal blog site</a> (he founded stackoverflow and has some nice blog articles and reading list recommendations)
 * <a href="https://ciechanow.ski/" target="_blank">Cool blog with nice animations</a> This blog explains with thorough animations how mechanical watches work and other stuff like GPS in the archives section of the site
 * [Rotary LTE phone](http://www.justine-haupt.com/rotarycellphone/index.html){:target="_blank"}
-	* [Youtube video](https://www.youtube.com/watch?v=uV1C-41tq64&ab_channel=JustineHaupt){:target="_blank"} * longer video with assembly breakdown in the same channel
+	* [Youtube video](https://www.youtube.com/watch?v=uV1C-41tq64&ab_channel=JustineHaupt){:target="_blank"} - longer video with assembly breakdown in the same channel
 	* She is selling a *no soldering* assembly kit, but it's quite costly and I think it's more fun to build it from scratch. Would be a nice side project, upgrade in difficulty from the code (Like going up the age difficulty on legos)
-	* [Firmware](https://github.com/jhaupt/RotaryCellphone){:target="_blank"} * Github
-	* [STL 3D printer files](https://www.thingiverse.com/thing:4161708/files){:target="_blank"} * ThingiVerse
+	* [Firmware](https://github.com/jhaupt/RotaryCellphone){:target="_blank"} - Github
+	* [STL 3D printer files](https://www.thingiverse.com/thing:4161708/files){:target="_blank"} - ThingiVerse
 	* [KiCAD files](http://www.justine-haupt.com/rotarycellphoneinfo/designfiles/electrical_kicad/){:target="_blank"}
 	* [Root dir with all files](http://www.justine-haupt.com/rotarycellphoneinfo/designfiles/){:target="_blank"}
 	* [A github repo of someone who forked it](https://github.com/riosil/RotaryCellphone){:target="_blank"}
@@ -103,7 +103,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 
 ### Mathematics ###
 
-* [MacTutor](https://mathshistory.st-andrews.ac.uk/Miller/mathsym/){:target="_blank"} * has a bunch of mathematician stamps and stuff about the history of math language and notation
+* [MacTutor](https://mathshistory.st-andrews.ac.uk/Miller/mathsym/){:target="_blank"} - has a bunch of mathematician stamps and stuff about the history of math language and notation
 
 ### Physics ###
 
@@ -153,7 +153,7 @@ I still can't find Frédéric Rossif's films he made with Vangelis composing the
 
 * This is in a seperate page because I don't want to populate this page full of keyboard resource links :)
 * Custom computers in old thinkpad chasis [xy tech site](https://www.xyte.ch/mods/x210-x2100/){:target="\_blank"}. I have suspicions that he is a student in Singapore
-* https://www.notebookcheck.net/Enthusiasts-bring-classic-ThinkPad-designs-to-the-modern-era.194630.0.html
+* [Blogpost](https://www.notebookcheck.net/Enthusiasts-bring-classic-ThinkPad-designs-to-the-modern-era.194630.0.html){:target="\_blank"} about the guy building new laptops in old thinkpad chassis
 
 ### Random Extra Stuff I use
 
