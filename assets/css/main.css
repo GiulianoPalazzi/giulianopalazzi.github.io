@@ -1,3 +1,21 @@
+/*
+from: https://www.yellowsubmarine.com/wp-content/themes/yellowsub/style.css?ver=4.9.22
+*/
+@font-face {
+    font-family: 'Nunito';
+    src: url('/assets/fonts/nunito-regular.woff2') format('woff2'),
+	 url('/assets/fonts/nunito-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'yellowsubmarineregular';
+    src: url('../assets/fonts/beatles_3-webfont.woff2') format('woff2'),
+         url('../fonts/beatles_3-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 @charset "UTF-8";
 
 html {
@@ -164,4 +182,9 @@ border-radius: 5px;
 cursor: pointer;
 display: inline-block;
 text-align: center;
+}
+
+.submarine {
+font-family: 'yellowsubmarineregular';
+color: #ffdf00;
 }
