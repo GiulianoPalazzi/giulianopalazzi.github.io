@@ -36,6 +36,22 @@ My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
 ## Todo list of this site
 
 ### Big things
+* Redisign homepage
+	* Make menu with sections of the website the first thing seen and
+	  big
+	* Add a section where the last five visited notes were (using
+	  local storage)
+	* Add this semester subjects section **or** currently taking
+	  subjects section
+	* Add study hour tracker page
+	* After this then the home page I have conjured up till now
+	* Add beginning of BWV 1052 to play when hovered over Mr Johann
+	* Add previous five pages of the website excluding uni stuff that
+	  were visited
+	* Add previous five blog posts visited
+	* Add a toggle to the previous 5 visited lists
+	* Maybe add shorcuts to access the pages (like a key for
+	  algorithms and data structs, etc)
 * Zettlekasten notes database
 * Start blogging
 * Projects area when I eventually start making them
@@ -75,6 +91,9 @@ My [Markdown Snippets Cheatsheet](/notes/cheatsheet) link
 * add Tex roman numeral to documents
 * Uni passed exams and average sections
 * Fix footer glitch overlapping with toc
+* Make a better darkmode/lightmode toggle button
+* Make a better mirror website toggle button
+	* Improve the mirror mechanism too
 
 </div>
 <div class="bach" style="margin-top: -12px; margin-left: 8px; margin-right: 4px;">
