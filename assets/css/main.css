@@ -11,7 +11,7 @@ from: https://www.yellowsubmarine.com/wp-content/themes/yellowsub/style.css?ver=
 
 @font-face {
     font-family: 'yellowsubmarineregular';
-    src: url('../assets/fonts/beatles_3-webfont.woff2') format('woff2'),
+    src: url('../fonts/beatles_3-webfont.woff2') format('woff2'),
          url('../fonts/beatles_3-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
@@ -32,11 +32,13 @@ main {
   margin-bottom: 0;
 }
 
+#MoveDownAPage {
+top: calc(100vh + 51px);
+}
 .left_panel {
   width: 200px;
   border-top: solid 2px grey;
   border-bottom: solid 5px grey;
-  margin-top: 10px;
   padding-bottom: 40px;
   padding-left: 4px;
   /*border-radius:16px;*/
@@ -95,7 +97,7 @@ main {
   }
   .left_panel {
     position: absolute;
-    top: 41px;
+    top: 51px;
     left: 2px;
   }
 }
@@ -187,4 +189,81 @@ text-align: center;
 .submarine {
 font-family: 'yellowsubmarineregular';
 color: #ffdf00;
+}
+
+/* Note block styles */
+div.note-block {
+background: var(--note-block-bg-clr);
+border-left: 5px solid #e74c3c;
+margin: 1.5em 10px;
+padding: 0.5em 10px;
+}
+div.note-block strong{
+color: #e74c3c;
+}
+
+
+div.firstpage {
+height: calc(100vh - 8px - 8px);
+margin-bottom: 49px;
+width: 100%;
+background: #04a7d7;
+}
+
+div.firstpage > div.links{
+padding: 25vh 0 0 25vw;
+width: 25vw;
+text-align: right;
+display: block;
+}
+
+div.firstpage > div > h1 > a {
+  text-decoration: none;
+  box-shadow: inset 0 0 0 0 #ffdf00;
+  color: #ffdf00;
+  margin: 0 -.25rem;
+  padding: 0 .25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+div.firstpage > div > h1 > a:hover {
+  box-shadow: inset -200px 0 0 0 #ffdf00;
+/*color: var(--background);*/
+color: #04a7d7;
+}
+
+div#sub {
+position: absolute;
+top: calc(25% + 12px);
+left: calc(50% + 16px);
+display: inline-block;
+}
+
+div.sub {
+    animation: float 2s ease-in-out infinite alternate;
+    position: absolute;
+    font-family: 'yellowsubmarineregular';
+    font-size: 65px;
+    }
+
+.sub:before {
+    background: url(/assets/images/prop1.png);
+    position: absolute;
+    content: '';
+    bottom: 41px;
+    left: 42px;
+    height: 23px;
+    width: 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    animation: rotate-prop .2s linear infinite alternate;
+}
+
+@keyframes rotate-prop {
+    from { }
+    to { transform: rotateX(90deg)}
+}
+
+@keyframes float {
+    0% {top:-50px;}
+    100% {top:-35px;}
 }
