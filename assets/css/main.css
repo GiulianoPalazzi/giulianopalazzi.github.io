@@ -202,6 +202,7 @@ div.note-block strong{
 color: #e74c3c;
 }
 
+/*New landing page styles*/
 
 div.firstpage {
 height: calc(100vh - 8px - 8px);
@@ -210,22 +211,36 @@ width: 100%;
 background: #04a7d7;
 }
 
-div.firstpage > div.links{
-padding: 25vh 0 0 25vw;
-width: 25vw;
+div.positive {
+  height: 50%;
+  width: 100%;
+  display: flex;
+}
+div.secondquadrant, div.firstquadrant {
+  position: relative;
+  flex:1;
+  height: 100%;
+  width: 50%;
+}
+
+div.secondquadrant > div.links{
+position: absolute;
+bottom: 0;
+right: 0;
+width: 25%;
 text-align: right;
 display: block;
 }
 
-div.firstpage > div > h1 > a {
+div.secondquadrant > div.links > h1 > a {
   text-decoration: none;
   box-shadow: inset 0 0 0 0 #ffdf00;
   color: #ffdf00;
-  margin: 0 -.25rem;
+  margin: 0 .25rem;
   padding: 0 .25rem;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
-div.firstpage > div > h1 > a:hover {
+div.secondquadrant > div.links > h1 > a:hover {
   box-shadow: inset -200px 0 0 0 #ffdf00;
 /*color: var(--background);*/
 color: #04a7d7;
@@ -233,9 +248,8 @@ color: #04a7d7;
 
 div#sub {
 position: absolute;
-top: calc(25% + 12px);
-left: calc(50% + 16px);
-display: inline-block;
+bottom: 0;
+left: 0;
 }
 
 div.sub {
@@ -264,6 +278,6 @@ div.sub {
 }
 
 @keyframes float {
-    0% {top:-50px;}
-    100% {top:-35px;}
+    0% {bottom:10px;}
+    100% {bottom:-5px;}
 }
