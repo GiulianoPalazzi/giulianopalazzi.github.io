@@ -3,4 +3,24 @@ layout: basic
 backlink: /uni/
 backlinktitle: University Page
 ---
+<h1>{{ page.title }}
+  {% if page.course-code %}
+   - {{ page.course-code }}
+  {% endif %}
+  <span>({{ page.credits }})</span>
+</h1>
+<h2>
+  Professor:
+  {% if page.professor-link %}
+  <a
+    href="{{ page.professor-link }}"
+    target="_blank"
+    >{{ page.professor }}</a
+  >
+  {% else %}
+    {{ page.professor }}
+  {% endif %}
+</h2>
+
+<h3><a href="syllabus.html">Syllabus</a></h3>
 {{ content }}
