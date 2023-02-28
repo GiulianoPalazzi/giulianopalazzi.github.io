@@ -1,8 +1,6 @@
 ---
 layout: note
 title: Circuit Theory Notes
-backlink: /uni/ct/ct_index
-backlinktitle: Circuit Theory Main Page
 ---
 # Kirchhoff Current Law (KCL) #
 

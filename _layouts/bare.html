@@ -3,7 +3,20 @@
   {% include head.html %}
   <body>
 {% if page.backlink or layout.backlink %}
-{% include backlink.html %}
+{% if page.layout == "note" %}
+  {%assign backlink = page.url | remove: ".html"%}
+  {%assign filename = page.name | remove: ".md"%}
+  {%assign subject = backlink | remove: filename | remove: "notes/"| remove: "/uni/" | remove: "/"%}
+  {%assign backlink = backlink | remove: filename | remove: "notes/" | append: subject | append: "_index"%}
+  {% for file in site.pages %}
+    {% if file.url contains backlink %}
+      {% assign backlinktitle = file.title | append: " Main Page" %}
+    {% endif %}
+  {% endfor %}
+  {% include backlink.html backlink = backlink backlinktitle = backlinktitle %}
+{% else %}
+  {% include backlink.html %}
+{% endif %}
 {% endif %}
       <button id="dark-mode-toggle" class="dark-mode-toggle">
         <svg width="100%" viewBox="0 0 496 496">

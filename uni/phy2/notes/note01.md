@@ -1,8 +1,6 @@
 ---
-layout: basic
+layout: note
 title: Physics II note 
-backlink: /uni/phy2/phy2_index
-backlinktitle: Physic II Main Page
 ---
 
 # Coulombs law #
@@ -32,7 +30,7 @@ $$
 F= \sum_{i} F_i
 $$ 
 
-## Eletrci field computation: continuous distribution of charge ##
+## Eletric field computation: continuous distribution of charge ##
 
 ### Line Charges ###
 

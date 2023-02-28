@@ -1,4 +1,8 @@
-{% if page.backlink %}
+{% if backlink %}
+    <nav class="navBack">
+	    <a href="{{ backlink }}">{{ backlinktitle }}</a>
+    </nav>
+{% elsif page.backlink %}
     <nav class="navBack">
 	    <a href="{{ page.backlink }}">{{ page.backlinktitle }}</a>
     </nav>

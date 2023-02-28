@@ -1,8 +1,6 @@
 ---
 layout: note
 title: Math Analysis II Note 01
-backlink: /uni/mth2/mth2_index
-backlinktitle: Mathematical Analysis II Main Page
 ---
 
 # Laplace Transfroms #
