@@ -2,23 +2,31 @@
 <html>
   {% include head.html %}
   <body>
-{% if page.backlink or layout.backlink %}
-  {% include backlink.html %}
-{% elsif page.layout == "note" %}
-  {%assign backlink = page.url | remove: ".html"%}
-  {%assign filename = page.name | remove: ".md"%}
-  {%assign subject = backlink | remove: filename | remove: "notes/"| remove: "/uni/" | remove: "/"%}
-  {%assign backlink = backlink | remove: filename | remove: "notes/" | append: subject | append: "_index"%}
-  {% for file in site.pages %}
-    {% if file.url contains backlink %}
-      {% assign backlinktitle = file.title | append: " Main Page" %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
-  <p>{{backlink}}</p>
+    {% if page.backlink or layout.backlink %}
+      {% include backlink.html %}
 
-  {% include backlink.html backlink = backlink backlinktitle = backlinktitle %}
-{% endif %}
+    <!-- Using contains instead of and explicit == because the layout
+     'allnotes' should also get an automatic back link to the index page
+     of the subject -->
+    {% elsif page.layout contains "note" %}
+      {%assign backlink = page.url | remove: ".html"%}
+      {%assign filename = page.name | remove: ".md"%}
+      {% if backlink contains "/notes/" %}
+        {%assign subject = backlink | remove: filename | remove: "notes/"| remove: "/uni/" | remove: "/"%}
+        {%assign backlink = backlink | remove: filename | remove: "notes/" | append: subject | append: "_index"%}
+      {% else %}
+        {%assign subject = backlink | remove: filename | remove: "practice/"| remove: "/uni/" | remove: "/"%}
+        {%assign backlink = backlink | remove: filename | remove: "practice/" | append: subject | append: "_index"%}
+      {% endif %}
+      {% for file in site.pages %}
+        {% if file.url contains backlink %}
+          {% assign backlinktitle = file.title | append: " Main Page" %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+
+      {% include backlink.html backlink = backlink backlinktitle = backlinktitle %}
+    {% endif %}
       <button id="dark-mode-toggle" class="dark-mode-toggle">
         <svg width="100%" viewBox="0 0 496 496">
           <path
