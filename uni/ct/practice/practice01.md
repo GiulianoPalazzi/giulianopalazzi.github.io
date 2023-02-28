@@ -1,8 +1,6 @@
 ---
 layout: note
 title: Practice Session 01 | 10 Oct 2022 
-backlink: /uni/ct/ct_index
-backlinktitle: Circuit Theory Main Page
 ---
 
 # Summary #
@@ -15,7 +13,7 @@ backlinktitle: Circuit Theory Main Page
 
 # Ex 1 #
 
-![](/uni/ct/practice01/ex01.png)
+![](practice01/ex01.png)
 
 ## Answer ##
 
@@ -23,7 +21,7 @@ backlinktitle: Circuit Theory Main Page
 
 # Ex 2 #
 
-![](/uni/ct/practice01/ex02.png)
+![](practice01/ex02.png)
 
 ## Answer ##
 
@@ -33,7 +31,7 @@ Because there is a short circuit from $c$ to $f$ passing by nodes $d$ & $e$
 
 # Ex 3 #
 
-![](/uni/ct/practice01/ex03.png)
+![](practice01/ex03.png)
 
 ## Answer ##
 
@@ -41,7 +39,7 @@ Because there is a short circuit from $c$ to $f$ passing by nodes $d$ & $e$
 
 # Ex 4 #
 
-![](/uni/ct/practice01/ex04.png)
+![](practice01/ex04.png)
 
 ## Working Out ##
 
@@ -59,7 +57,7 @@ $\therefore -\frac{10V}{\frac{2}{3}} + \frac{10V}{\frac{1}{3}} = -\frac{20V}{3} 
 
 # Ex 5 #
 
-![](/uni/ct/practice01/ex05.png)
+![](practice01/ex05.png)
 
 ## Working Out ##
 
@@ -85,7 +83,7 @@ $\therefore v_1 = 20V$
 
 # Ex 6 #
 
-![](/uni/ct/practice01/ex06.png)
+![](practice01/ex06.png)
 
 ## Working Out ##
 
@@ -95,7 +93,7 @@ $\therefore v_1 = 20V$
 
 # Ex 7 #
 
-![](/uni/ct/practice01/ex07.png)
+![](practice01/ex07.png)
 
 ## Working Out ##
 

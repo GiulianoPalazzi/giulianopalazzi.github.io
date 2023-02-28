@@ -1,8 +1,6 @@
 ---
 layout: note
 title: Note 03
-backlink: /uni/ct/ct_index
-backlinktitle: Circuit Theory Main Page
 date: 05/10/22
 ---
 
@@ -19,7 +17,7 @@ A circuit that consists of all parallel connection of only the following type:
 	affect the Millman Voltage so we should not include it's
 	conductance in our calculations
 
-![Millman's topology example](/uni/ct/notes03/topology.png "Millman's topology example")
+![Millman's topology example](notes03/topology.png "Millman's topology example")
 
 ## Millman's theorem ##
 
