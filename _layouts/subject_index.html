@@ -24,3 +24,38 @@ backlinktitle: University Page
 
 <h3><a href="syllabus.html">Syllabus</a></h3>
 {{ content }}
+
+{% for file in site.pages %}
+{% if file.path contains ".md" and file.url contains page.dir and file.path contains "/notes/" %}
+	{% assign hasnotes = true %}
+	{% break %}
+	{% endif %}
+{% endfor %}
+{% for file in site.pages %}
+{% if file.path contains ".md" and file.url contains page.dir and file.path contains "/practice/" %}
+	{% assign haspractice = true %}
+	{% break %}
+	{% endif %}
+{% endfor %}
+{% if hasnotes %}
+<div class="left_panel">
+  <h3>Notes</h3>
+<ul>
+{% for file in site.pages %}
+{% if file.path contains ".md" and file.url contains page.dir and file.path contains "/notes/" %}
+	<li><a href="{{file.url}}">{{file.name | remove: ".md" }}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
+{% if haspractice %}
+  <h3>Practice Notes</h3>
+<ul>
+{% for file in site.pages %}
+{% if file.path contains ".md" and file.url contains page.dir and file.path contains "/practice/" %}
+	<li><a href="{{file.url}}">{{file.name | remove: ".md" }}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
+{% endif %}
+</div>
+{% endif %}
