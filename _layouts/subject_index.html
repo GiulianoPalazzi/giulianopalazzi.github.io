@@ -26,50 +26,50 @@ backlinktitle: University Page
 {{ content }}
 
 {% for file in site.pages %}
-{% if file.path contains ".md" and file.url contains page.dir and file.path contains "/notes/" %}
-	{% assign hasnotes = true %}
-	{% break %}
-	{% endif %}
+  {% if file.path contains ".md" and file.url contains page.dir and file.path contains "/notes/" %}
+    {% assign hasnotes = true %}
+    {% break %}
+  {% endif %}
 {% endfor %}
 {% for file in site.pages %}
-{% if file.path contains ".md" and file.url contains page.dir and file.path contains "/practice/" %}
-	{% assign haspractice = true %}
-	{% break %}
-	{% endif %}
+  {% if file.path contains ".md" and file.url contains page.dir and file.path contains "/practice/" %}
+    {% assign haspractice = true %}
+    {% break %}
+  {% endif %}
 {% endfor %}
 {% if hasnotes %}
-<div class="left_panel">
-  <h3>Notes</h3>
-<ul>
-{% assign i = 1 %}
-{% for file in site.pages %}
-{% if file.path contains ".md" and file.url contains page.dir and file.path contains "/notes/" %}
-	{% unless file.path contains "allnotes" %}
-	{% comment %}<li><a href="{{file.url}}">{{file.name | remove: ".md" }}</a></li> {% endcomment %}
-	<li><a href="{{file.url}}">{{i}}. {{file.title}}</a></li>
-	{% assign i = i | plus: 1 %}
-	{% endunless %}
-	{% endif %}
-{% endfor %}
-</ul>
-<h3>All notes</h3>
-{% for file in site.pages %}
-{% if file.url contains page.dir and file.path contains "/notes/allnotes.md" %}
-<ul>
-	<li><a href="{{file.url}}">{{file.name | remove: ".md" }}</a></li>
-</ul>
-	{% endif %}
-{% endfor %}
+  <div class="left_panel">
+    <h3>Notes</h3>
+    <ul>
+    {% assign i = 1 %}
+    {% for file in site.pages %}
+      {% if file.path contains ".md" and file.url contains page.dir and file.path contains "/notes/" %}
+        {% unless file.path contains "allnotes" %}
+          {% comment %}<li><a href="{{file.url}}">{{file.name | remove: ".md" }}</a></li> {% endcomment %}
+          <li><a href="{{file.url}}">{{i}}. {{file.title}}</a></li>
+          {% assign i = i | plus: 1 %}
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+  {% for file in site.pages %}
+    {% if file.url contains page.dir and file.path contains "/notes/allnotes.md" %}
+      <h3>
+        <a href="{{file.url}}">All Notes</a>
+      </h3>
+      {% break %}
+    {% endif %}
+  {% endfor %}
 
-{% if haspractice %}
-  <h3>Practice Notes</h3>
-<ul>
-{% for file in site.pages %}
-{% if file.path contains ".md" and file.url contains page.dir and file.path contains "/practice/" %}
-	<li><a href="{{file.url}}">{{file.name | remove: ".md" }}</a></li>
-	{% endif %}
-{% endfor %}
-</ul>
-{% endif %}
-</div>
+  {% if haspractice %}
+    <h3>Practice Notes</h3>
+    <ul>
+    {% for file in site.pages %}
+      {% if file.path contains ".md" and file.url contains page.dir and file.path contains "/practice/" %}
+        <li><a href="{{file.url}}">{{file.name | remove: ".md" }}</a></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  {% endif %}
+  </div>
 {% endif %}
