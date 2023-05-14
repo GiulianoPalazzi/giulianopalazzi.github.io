@@ -7,7 +7,9 @@ backlinktitle: University Page
   {% if page.course-code %}
    - {{ page.course-code }}
   {% endif %}
+  {% if page.credits %}
   <span>({{ page.credits }})</span>
+  {% endif %}
 </h1>
 <h2>
   Professor:
