@@ -1,8 +1,6 @@
 ---
-layout: basic
+layout: syllabus
 title: Linear Algebra & Geometry Syllabus
-backlink: /uni/lag/lag_index
-backlinktitle: Linear Algebra & Geometry Main Page
 ---
 
 * Vector in 2-space and in 3-space and their operations. 

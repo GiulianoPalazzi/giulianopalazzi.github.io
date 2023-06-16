@@ -1,11 +1,7 @@
 ---
-layout: basic
+layout: syllabus
 title: Algorithm & Data Structures Syllabus
-backlink: /uni/aads/aads_index
-backlinktitle: Algorithm & Data Structures Main Page
 ---
-
-# Course topics #
 
 * Introduction (6.0 h)
 	* Course introduction

@@ -1,8 +1,6 @@
 ---
-layout: basic
+layout: syllabus
 title: Mathematical Analisys II Syllabus
-backlink: /uni/mth2/mth2_index
-backlinktitle: Mathematical Analisys Main Page
 ---
 
 # Course Topics #
