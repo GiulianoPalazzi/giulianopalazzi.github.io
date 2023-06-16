@@ -43,25 +43,38 @@ backlinktitle: University Page
   <div class="left_panel">
     <h3>Notes</h3>
     <ul>
-    {% assign i = 1 %}
+    {% assign i = 0 %}
     {% for file in site.pages %}
       {% if file.path contains ".md" and file.url contains page.dir and file.path contains "/notes/" %}
         {% unless file.path contains "allnotes" %}
           {% comment %}<li><a href="{{file.url}}">{{file.name | remove: ".md" }}</a></li> {% endcomment %}
-          <li><a href="{{file.url}}">{{i}}. {{file.title}}</a></li>
           {% assign i = i | plus: 1 %}
+          <li><a href="{{file.url}}">{{i}}. {{file.title}}</a></li>
         {% endunless %}
       {% endif %}
     {% endfor %}
+
     </ul>
+  {% if i > 1 %}
+      <h3>
+        <a href="./notes/allnotes">All Notes</a>
+      </h3>
+  {% endif %}
+
+  {% comment %}
   {% for file in site.pages %}
     {% if file.url contains page.dir and file.path contains "/notes/allnotes.md" %}
+      <script>
+	const blob = new Blob(["---\nlayout: allnotes\ntitle: All Notes\n---"], { type: 'text/plain' });
+        saveAs(blob, "./notes/allnotes.md");
+      </script>
       <h3>
         <a href="{{file.url}}">All Notes</a>
       </h3>
       {% break %}
     {% endif %}
   {% endfor %}
+  {% endcomment %}
 
   {% if haspractice %}
     <h3>Practice Notes</h3>

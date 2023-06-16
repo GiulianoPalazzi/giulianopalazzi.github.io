@@ -1,0 +1,14 @@
+---
+layout: note
+---
+{% for file in site.pages %}
+{% if file.path contains ".md" and file.url contains page.dir %}
+	{% unless file.path contains "allnotes" %}
+	{% comment %}
+	<h1>{{file.title}}</h1>
+	<hr>
+	{% endcomment %}
+	{{file.content | markdownify}}
+	{% endunless %}
+	{% endif %}
+{% endfor %}
