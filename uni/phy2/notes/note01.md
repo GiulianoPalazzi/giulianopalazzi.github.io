@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Physics II note 
+title: Physics II note
 ---
 
 # Coulombs law #
