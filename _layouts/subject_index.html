@@ -23,8 +23,13 @@ backlinktitle: University Page
     {{ page.professor }}
   {% endif %}
 </h2>
+{% for file in site.pages %}
+  {% if file.url contains page.dir and file.path contains "syllabus" %}
+    <h3><a href="syllabus">Syllabus</a></h3>
+    {% break %}
+  {% endif %}
+{% endfor %}
 
-<h3><a href="syllabus.html">Syllabus</a></h3>
 {{ content }}
 
 {% for file in site.pages %}
