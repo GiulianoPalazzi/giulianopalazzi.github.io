@@ -6,6 +6,7 @@
   right: calc(30px + 1.2em);
   color: var(--foreground);
   border: 2px solid currentColor;
+  padding: 0px 0px;
   background: transparent;
   cursor: pointer;
   border-radius: 5px;
