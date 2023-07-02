@@ -1,6 +1,5 @@
 ---
 layout: syllabus
-title: Linear Algebra & Geometry Syllabus
 ---
 
 * Vector in 2-space and in 3-space and their operations. 

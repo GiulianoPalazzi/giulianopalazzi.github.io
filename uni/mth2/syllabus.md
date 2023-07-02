@@ -1,9 +1,6 @@
 ---
 layout: syllabus
-title: Mathematical Analisys II Syllabus
 ---
-
-# Course Topics #
 
 * Laplace transform (10 hours)
 

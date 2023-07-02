@@ -8,12 +8,13 @@ layout: basic
 {% for file in site.pages %}
 {% if file.url contains backlink %}
   {% assign backlinktitle = file.title | append: " Main Page" %}
+  {% assign title = file.title | append: " Syllabus" %}
   {% break %}
 {% endif %}
 {% endfor %}
 {% include backlink.html backlink = backlink backlinktitle = backlinktitle %}
 <main>
-<h1 id="">{{ page.title }}</h1>
+<h1>{{ title }}</h1>
 <hr>
 {{ content }}
 </main>

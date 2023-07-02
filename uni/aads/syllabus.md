@@ -1,6 +1,5 @@
 ---
 layout: syllabus
-title: Algorithm & Data Structures Syllabus
 ---
 
 * Introduction (6.0 h)

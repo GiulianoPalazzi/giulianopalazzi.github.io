@@ -1,6 +1,5 @@
 ---
 layout: syllabus
-title: Physics I Syllabus
 ---
 
 # INTRODUCTION
