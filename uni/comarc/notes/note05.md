@@ -21,7 +21,7 @@ title: Sequential Circuits
 
 # Huffman Model
 
-# REgister transfer level
+# Register transfer level
 
 # Multiplexer
 
