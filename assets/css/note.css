@@ -1,4 +1,4 @@
-img {
+#mg {
 width: 70%;
 display: block;
 margin-left: auto;
@@ -79,4 +79,25 @@ margin: 0;
 }
 summary.button + p {
 margin-left: 2em;
+}
+
+div.lec {
+height: 0;
+margin-left: -200px;
+}
+div.lec > div > hr {
+width: 195px;
+}
+
+table {
+  border-spacing: 0px;
+}
+
+td, th {
+  border: 1px solid var(--foreground);
+  padding: 2px 8px;
+}
+
+img {
+    width: 100%
 }
