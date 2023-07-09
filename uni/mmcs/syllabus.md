@@ -50,7 +50,7 @@ layout: syllabus
       * rescaling
       * derivatives
    * Dirac delta
-   * p.v.(1/t)
+   * $p.v.\left(\dfrac{1}{t}\right)$
    * Dirac comb;
    * Convolution of functions & distributions
 
