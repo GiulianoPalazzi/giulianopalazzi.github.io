@@ -21,7 +21,7 @@ layout: syllabus
 4. Jointly distributed random variables(15h):
    * marginals & conditional distributions
    * Independence
-   * correlation e conditional independence
+   * correlation & conditional independence
    * notable multivariate distributions
 
 5. Convergence in probability & in distribution(5h):
