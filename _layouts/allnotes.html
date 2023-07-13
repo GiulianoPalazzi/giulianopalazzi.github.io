@@ -1,14 +1,105 @@
 ---
-layout: note
+layout: basic
+head: 1 #this just act like a flag
 ---
-{% for file in site.pages %}
-{% if file.path contains ".md" and file.url contains page.dir %}
-	{% unless file.path contains "allnotes" %}
-	{% comment %}
-	<h1>{{file.title}}</h1>
+<div class="toc">
+	<button class="ui button" onClick="setDetails(false);">Close all sections</button>
+	<button class="ui button" onClick="setDetails(true);">Open all sections</button>
+	<div class="contents">
+	</div>
+</div>
+
+<div class="main-note">
+	<h1 id="">{{ page.title }}</h1>
 	<hr>
-	{% endcomment %}
-	{{file.content | markdownify}}
-	{% endunless %}
-	{% endif %}
-{% endfor %}
+	<!--<nav>{% include toc.html html=content item_class="%level%" h_max=3 %}</nav>-->
+	<div class="cnote">
+		{% for file in site.pages %}
+			{% if file.path contains ".md" and file.url contains page.dir %}
+				{% unless file.path contains "allnotes" %}
+				{% capture prependtext %}<div class="lec"><div><hr class="divisor">Lecture {{file.name | remove: ".md" | remove: "Lec"}}</div></div>{% endcapture %}
+					{{file.content | markdownify | prepend: prependtext}}
+				{% endunless %}
+			{% endif %}
+		{% endfor %}
+	</div>
+</div>
+
+<script>
+    var contents = "<nav>In Open Sections:";
+    betweendiv = /<div\ class="lec">.*?(?=<div\ class="lec"|$)/gs;
+    divcont = /<div\ class="lec">.*?(?=<\/div|$)/gs;
+    betweenH1 = /<h1.*?(?=<h1|$)/gs;
+    excludeH1 = /\s*(?:<\/h1>).*/gs;
+    anyHeaderID = /(?<=<h[1-3][^>]*id=").*?(?=")/gs;
+    anyHeaderText = /(?<=<h[123][^>]*>).*?(?=<\/h[123])/gs;
+    betweenH2 = /<h2.*?(?=<h[12]|$)/gs;
+    anyHeaderID2 = /(?<=<h[23][^>]*id=").*?(?=")/gs;
+    anyHeaderText2 = /(?<=<h[23][^>]*>).*?(?=<\/h[23])/gs;
+    var newHTML, curIDs, curHeaders;
+
+    allCollapseableSections = document.getElementsByClassName("cnote");
+
+    // This loops for each collapseable notes section one time
+    // curBlock = currentBlock (of html inside h1 tags)
+    for (var curBlock = 0; curBlock < allCollapseableSections.length; curBlock++) {
+        // Onetime:
+        //Create sections which are defined as area between two h1's
+        var doc = allCollapseableSections[curBlock].innerHTML;
+        var LectureDiv = doc.match(betweendiv);
+        var DivCont = doc.match(divcont);
+
+        allCollapseableSections[curBlock].innerHTML = "";
+        for (var u = 0; u < LectureDiv.length ; u++) {
+        allCollapseableSections[curBlock].innerHTML += DivCont[u];
+        var sectionsBody = LectureDiv[u].match(betweenH1);
+        for (var i = 0; i < sectionsBody.length ; i++) {
+            //contents
+            curHeaders = sectionsBody[i].match(anyHeaderText);
+            curIDs = sectionsBody[i].match(anyHeaderID);
+	    //console.log(tocContents[i]);
+
+            contents += "<div data-id='" + curIDs[0] + "' hidden>";
+            contents += "<a href='#" + curIDs[0] + "'>" + curHeaders[0] + "</a>";
+	
+            var sectionsBody2 = sectionsBody[i].match(betweenH2);
+            // if there exist a/some h2(s) continue
+            if (sectionsBody2 != null){
+            contents += "<ul>";
+            for (var j = 0; j < sectionsBody2.length ; j++) {
+                curHeaders2 = sectionsBody2[j].match(anyHeaderText2);
+                curIDs2 = sectionsBody2[j].match(anyHeaderID2);
+		contents += "<li><a href='#" + curIDs2[0] + "'>" + curHeaders2[0] + "</a></li>";
+            	contents += "<ul>";
+                for (var k = 1; k < curHeaders2.length ; k++){
+		    contents += "<li><a href='#" + curIDs2[k] + "'>" + curHeaders2[k] + "</a></li>";
+		
+            	}
+
+            	contents += "</ul>";
+		}
+
+            }
+
+    	    contents += "</div>";
+
+            // Body
+            allCollapseableSections[curBlock].innerHTML += "<details id='" + curIDs[0] + "'><summary>" + sectionsBody[i].match(anyHeaderText)[0] + "</summary>" + sectionsBody[i].match(excludeH1) + "</details>";
+        }
+	}
+    }
+
+    contents += "</nav>";
+    document.getElementsByClassName("contents")[0].innerHTML = contents;
+    
+    // Auto showing of sub-sections
+    function showSubsections(e) {
+        const item = document.querySelector(`[data-id='${e.target.id}']`);
+        item.toggleAttribute('hidden');
+    }
+
+    const sections = document.querySelectorAll('details');
+    sections.forEach((section) => {
+        section.addEventListener('toggle', showSubsections);
+    });
+</script>
