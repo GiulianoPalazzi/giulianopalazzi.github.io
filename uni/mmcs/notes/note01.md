@@ -62,3 +62,21 @@ Categorical data can only can only be plotted in two ways:
 # Book
 
 S. Ross - Probability adn statistics for engineers and science
+
+# List of Lecture content
+
+1. Descriptive Statistics
+1. Probability definition
+1. Combinatorial Analysis
+1. Combinatorics & conditional probability
+1. Bayes Formula
+1. Random variables
+1. Continuous Random Variables
+1. Normal Distribution
+1. Joint distributions
+1. Limit theorems
+1. Point estimation
+1. MLE
+1. Confidence interval
+1. Hypothesis testing
+1. Linear regression
