@@ -17,9 +17,9 @@ c & d
 \end{bmatrix} 
 $$
 
-Then the determinant of the matrix is equal to $ab - cd$
+Then the determinant of the matrix is equal to $ad - bc$
 
-$det(A) = \begin{vmatrix} A \end{vmatrix} = \begin{vmatrix} a & b\\\ c & d \end{vmatrix} = a \times b - c \times d$
+$det(A) = \begin{vmatrix} A \end{vmatrix} = \begin{vmatrix} a & b\\\ c & d \end{vmatrix} = a \times d - b \times c$
 
 ## 3$\times$3 matrices ##
 
