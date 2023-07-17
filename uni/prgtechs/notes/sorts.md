@@ -4,6 +4,14 @@ title: Sorting Algorithms
 ---
 
 # Union-find algorithms for online connectivity
+```c
+#include <stdio.h>
+
+int main() {
+	return 0
+}
+```
+
 
 ## Quick-find
 
