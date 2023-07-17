@@ -95,7 +95,7 @@ Lovely tedious calculations that *abuses* standard math notation
 [Wikipedia](https://en.wikipedia.org/wiki/Triple_product){:target="_blank"}
 Half of Box prod will give the area of the tetahedron made by joining the three point. Basically half the area of the parallelopiped.
 
-# Cauchy-Schawartz inequelity #
+# Cauchy-Schawartz inequality #
 
 $\begin{Vmatrix} \vec{x} . \vec{y} \end{Vmatrix} \le \begin{Vmatrix} \vec{x} \end{Vmatrix} + \begin{Vmatrix} \vec{y} \end{Vmatrix}  $
 
